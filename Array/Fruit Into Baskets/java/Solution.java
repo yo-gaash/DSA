@@ -18,11 +18,7 @@ class Solution {
             for(Map.Entry<Integer,Integer> entrySet : bucket.entrySet()){
                 System.out.print(entrySet.getKey()+"->"+entrySet.getValue());
             }
-            int count = 0;
-            for(Map.Entry<Integer,Integer> entrySet : bucket.entrySet()){
-                count = count+entrySet.getValue();
-            }
-            max = Math.max(max,count);
+            max = Math.max(max,right-left+1);
         }
         return max;
     }
