@@ -1,43 +1,29 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        if(fruits.length==1){
-            return 1;
-        }
-        int start = 0;
-        int count = -1;
+        Map<Integer, Integer> bucket = new LinkedHashMap<>();
+        int left = 0;
         int max = Integer.MIN_VALUE;
-        while(start<=fruits.length-2){
-            int end = start+1;
-            while(end<=fruits.length-1){
-                count = count(fruits,start,end);
-                max = Math.max(count,max);
-                end++;
+        for(int right=0;right<=fruits.length-1;right++){
+            bucket.put(fruits[right],bucket.getOrDefault(fruits[right],0)+1);
+            for(Map.Entry<Integer,Integer> entrySet : bucket.entrySet()){
+                System.out.print(entrySet.getKey()+"->"+entrySet.getValue());
             }
-            start++;
+            while(bucket.size()>2){
+                bucket.put(fruits[left],bucket.get(fruits[left])-1);
+                if(bucket.get(fruits[left])==0){
+                    bucket.remove(fruits[left]);
+                }
+                left++;
+            }
+            for(Map.Entry<Integer,Integer> entrySet : bucket.entrySet()){
+                System.out.print(entrySet.getKey()+"->"+entrySet.getValue());
+            }
+            int count = 0;
+            for(Map.Entry<Integer,Integer> entrySet : bucket.entrySet()){
+                count = count+entrySet.getValue();
+            }
+            max = Math.max(max,count);
         }
         return max;
-    }
-    public static int count(int[] arr, int start, int end){
-        Set<Integer> set = new HashSet<>();
-        for(int i=start;i<=end;i++){
-            set.add(arr[i]);
-        }
-        System.out.println(set.size());
-        if(set.size()>2){
-            return -1;
-        }
-        int first = arr[start];
-        int second = arr[start+1];
-        int count = 0;
-        for(int i=start;i<=end;i++){
-            if(arr[i]==first){
-                count++;
-            }
-            else{
-                count++;
-            }
-        }
-        System.out.println(count+" "+start+" "+end);
-        return count;
     }
 }
