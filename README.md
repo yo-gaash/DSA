@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 
 </details>
 
