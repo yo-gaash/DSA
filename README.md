@@ -41,7 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
+| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Easy |
 
 </details>
 
