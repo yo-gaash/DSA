@@ -23,7 +23,7 @@ class Solution {
             set.add(arr[i]);
         }
         System.out.println(set.size());
-        if(set.size()!=2){
+        if(set.size()>2){
             return -1;
         }
         int first = arr[start];
