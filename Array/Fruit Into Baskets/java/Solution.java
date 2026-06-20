@@ -1,5 +1,8 @@
 class Solution {
     public int totalFruit(int[] fruits) {
+        if(fruits.length==1){
+            return 1;
+        }
         int start = 0;
         int count = -1;
         int max = Integer.MIN_VALUE;
