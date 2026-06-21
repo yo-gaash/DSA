@@ -50,6 +50,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
