@@ -13,13 +13,24 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Hash Table
+### Array
 <details>
-<summary>Click to expand Hash Table problems</summary>
+<summary>Click to expand Array problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+
+</details>
+
+
+### General
+<details>
+<summary>Click to expand General problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| — | [Longest Substring Without Repeating Characters](./General/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 
 </details>
 
