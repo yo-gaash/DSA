@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
