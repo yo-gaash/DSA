@@ -27,23 +27,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Longest Substring Without Repeating Characters](./General/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
-
-</details>
-
-
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 
 </details>
