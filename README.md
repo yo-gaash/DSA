@@ -13,36 +13,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
+### Hash Table
 <details>
-<summary>Click to expand Array problems</summary>
+<summary>Click to expand Hash Table problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
-
-</details>
-
-
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Delete Node in a Linked List](./General/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
-
-</details>
-
-
-### Linked List
-<details>
-<summary>Click to expand Linked List problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Easy |
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 
 </details>
 
