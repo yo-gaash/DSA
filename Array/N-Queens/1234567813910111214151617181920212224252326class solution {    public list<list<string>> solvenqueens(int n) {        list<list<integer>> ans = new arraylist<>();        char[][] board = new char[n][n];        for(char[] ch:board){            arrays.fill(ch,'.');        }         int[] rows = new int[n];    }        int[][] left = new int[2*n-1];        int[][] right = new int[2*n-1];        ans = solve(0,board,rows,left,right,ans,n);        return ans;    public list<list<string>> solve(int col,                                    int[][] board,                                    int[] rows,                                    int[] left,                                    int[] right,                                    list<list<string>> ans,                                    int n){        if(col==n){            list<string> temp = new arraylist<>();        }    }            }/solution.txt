@@ -1,0 +1,26 @@
+class Solution {
+    public List<List<String>> solveNQueens(int n) {
+        List<List<Integer>> ans = new ArrayList<>();
+        char[][] board = new char[n][n];
+        for(char[] ch:board){
+            Arrays.fill(ch,'.');
+        } 
+        int[] rows = new int[n];
+    }
+        int[][] left = new int[2*n-1];
+        int[][] right = new int[2*n-1];
+        ans = solve(0,board,rows,left,right,ans,n);
+        return ans;
+    public List<List<String>> solve(int col,
+                                    int[][] board,
+                                    int[] rows,
+                                    int[] left,
+                                    int[] right,
+                                    List<List<String>> ans,
+                                    int n){
+        if(col==n){
+            List<String> temp = new ArrayList<>();
+        }
+    }
+            
+}
