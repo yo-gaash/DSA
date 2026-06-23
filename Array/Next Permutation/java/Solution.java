@@ -16,13 +16,8 @@ class Solution {
                     break;
                 }
             }
-            if(nxtGreater==-1){
-                sort(nums,breakPoint+1);
-            }
-            else{
-                swap(nums,breakPoint,nxtGreater);
-                sort(nums,breakPoint+1);
-            }
+            swap(nums,breakPoint,nxtGreater);
+            rev(nums,breakPoint+1,nums.length-1);
         }
         else{
             int start = 0;
@@ -41,11 +36,13 @@ class Solution {
         nums[breakPoint] = nums[nxtGreater];
         nums[nxtGreater] = temp;
     }
-    public static void sort(int[] nums,int idx){
-        for(int i=idx;i<=nums.length-2;i++){
-            if(nums[i]>nums[i+1]){
-                swap(nums,i,i+1);
-            }
+    public static void rev(int[] nums,int start,int end){
+        while(start<=end){
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
         }
     }
 }
