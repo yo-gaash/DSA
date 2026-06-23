@@ -19,33 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
-| 51 | [N-Queens](./Array/N-Queens/) | Hard |
-| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
-| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
-
-</details>
-
-
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Delete Node in a Linked List](./General/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
-
-</details>
-
-
-### Linked List
-<details>
-<summary>Click to expand Linked List problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 
 </details>
 
