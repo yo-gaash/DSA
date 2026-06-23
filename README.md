@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
+| 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
 | 1353 | [Maximum Number of Events That Can Be Attended](./Array/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/) | Medium |
 | 1354 | [Construct Target Array With Multiple Sums](./Array/Construct%20Target%20Array%20With%20Multiple%20Sums/) | Hard |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
