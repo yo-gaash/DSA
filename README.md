@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](./Array/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/) | Easy |
 | 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
