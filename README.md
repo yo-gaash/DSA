@@ -53,6 +53,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
+
+</details>
+
+
 ### Two Pointers
 <details>
 <summary>Click to expand Two Pointers problems</summary>
