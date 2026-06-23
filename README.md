@@ -75,6 +75,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
 | 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
 
 </details>
