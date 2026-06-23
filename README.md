@@ -40,6 +40,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1693 | [Daily Leads and Partners](./Database/Daily%20Leads%20and%20Partners/) | Easy |
 | 1741 | [Find Total Time Spent by Each Employee](./Database/Find%20Total%20Time%20Spent%20by%20Each%20Employee/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
