@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
+| 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
 
 </details>
 
