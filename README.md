@@ -29,6 +29,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Database
+<details>
+<summary>Click to expand Database problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/) | Easy |
+
+</details>
+
+
 ### Linked List
 <details>
 <summary>Click to expand Linked List problems</summary>
