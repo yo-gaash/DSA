@@ -39,6 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/) | Easy |
 
 </details>
