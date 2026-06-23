@@ -19,59 +19,23 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 135 | [Candy](./Array/Candy/) | Hard |
-| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
-| 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
-| 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
-| 1353 | [Maximum Number of Events That Can Be Attended](./Array/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/) | Medium |
-| 1354 | [Construct Target Array With Multiple Sums](./Array/Construct%20Target%20Array%20With%20Multiple%20Sums/) | Hard |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
-| 1380 | [Lucky Numbers in a Matrix](./Array/Lucky%20Numbers%20in%20a%20Matrix/) | Easy |
-| 1389 | [Create Target Array in the Given Order](./Array/Create%20Target%20Array%20in%20the%20Given%20Order/) | Easy |
-| 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
-| 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
-| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
-| 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
-| 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
-| 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
-| 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
-| 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
-| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
-| 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
-| 1773 | [Count Items Matching a Rule](./Array/Count%20Items%20Matching%20a%20Rule/) | Easy |
-| 1854 | [Maximum Population Year](./Array/Maximum%20Population%20Year/) | Easy |
-| 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
-| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
-| 2441 | [Largest Positive Integer That Exists With Its Negative](./Array/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/) | Easy |
-| 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
-| 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
-| 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 
 </details>
 
 
-### Database
+### General
 <details>
-<summary>Click to expand Database problems</summary>
+<summary>Click to expand General problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
-| 1693 | [Daily Leads and Partners](./Database/Daily%20Leads%20and%20Partners/) | Easy |
-| 1741 | [Find Total Time Spent by Each Employee](./Database/Find%20Total%20Time%20Spent%20by%20Each%20Employee/) | Easy |
-| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
-| 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/) | Easy |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
+| — | [Delete Node in a Linked List](./General/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 
 </details>
 
@@ -82,43 +46,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
-| 1367 | [Linked List in Binary Tree](./Linked%20List/Linked%20List%20in%20Binary%20Tree/) | Medium |
-
-</details>
-
-
-### Math
-<details>
-<summary>Click to expand Math problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
-
-</details>
-
-
-### String
-<details>
-<summary>Click to expand String problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
-| 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
-| 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 3794 | [Reverse String Prefix](./Two%20Pointers/Reverse%20String%20Prefix/) | Easy |
+| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Easy |
 
 </details>
 
