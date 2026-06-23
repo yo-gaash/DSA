@@ -25,6 +25,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
