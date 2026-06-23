@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
