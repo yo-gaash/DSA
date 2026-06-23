@@ -16,8 +16,13 @@ class Solution {
                     break;
                 }
             }
-            swap(nums,breakPoint,nxtGreater);
-            sort(nums,breakPoint+1);
+            if(nxtGreater==-1){
+                sort(nums,breakPoint+1);
+            }
+            else{
+                swap(nums,breakPoint,nxtGreater);
+                sort(nums,breakPoint+1);
+            }
         }
         else{
             int start = 0;
