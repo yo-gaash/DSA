@@ -7,7 +7,7 @@ class Solution {
         int min = Integer.MAX_VALUE;
         for(int i=0;i<=prefixSum.length-2;i++){
             for(int j=i+1;j<=prefixSum.length-1;j++){
-                if(prefixSum[j]-prefixSum[i]==target){
+                if(prefixSum[j]-prefixSum[i]>=target){
                     min = Math.min(min,j-i);
                 }
             }
