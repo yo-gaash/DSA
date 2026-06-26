@@ -23,6 +23,9 @@ class Solution {
             temp = temp.next;
         }
         k=k%n;
+        if(k==0){
+            return head;
+        }
         ListNode first = head;
         ListNode second = first.next;
         for(int i=0;i<n-k-1;i++){
