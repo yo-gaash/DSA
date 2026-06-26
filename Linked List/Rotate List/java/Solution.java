@@ -10,28 +10,21 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        rev(head)
-    }
-    public static ListNode rev(ListNode head,int start, int end){
-        ListNode prev;
-        ListNode curr = get(head,start);
-        ListNode next = curr.next;
-        while(curr!=null&&k!=0){
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-            if(curr.next!=null){
-                next = curr.next;
-            }
-            k--;
-        }
-        return prev;
-    }
-    public static ListNode get(ListNode head,int start){
         ListNode temp = head;
-        for(int i=1;i<start;i++){
+        int n=1;
+        while(temp.next!=null){
+            n++;
             temp = temp.next;
         }
-        return temp;
+        k=k%n;
+        ListNode first = head;
+        ListNode second = first.next;
+        for(int i=0;i<n-k-1;i++){
+            first = first.next;
+            second = first.next;
+        }
+        temp.next = head;
+        first.next = null;
+        return second;
     }
 }
