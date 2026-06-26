@@ -38,7 +38,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Delete Node in a Linked List](./General/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
+| — | [Find Array Given Subset Sums](./General/Find%20Array%20Given%20Subset%20Sums/) | Medium |
 
 </details>
 
