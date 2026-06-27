@@ -39,7 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Find Array Given Subset Sums](./General/Find%20Array%20Given%20Subset%20Sums/) | Medium |
+| — | [Degree of an Array](./General/Degree%20of%20an%20Array/) | Medium |
 
 </details>
 
