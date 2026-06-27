@@ -15,7 +15,7 @@ class Solution {
                 end++;
             }
         }
-        maxLen = maxLen==Integer.MIIN_VALUE?0:maxLen;
+        maxLen = maxLen==Integer.MIN_VALUE?0:maxLen;
         return maxLen;
     }
 }
