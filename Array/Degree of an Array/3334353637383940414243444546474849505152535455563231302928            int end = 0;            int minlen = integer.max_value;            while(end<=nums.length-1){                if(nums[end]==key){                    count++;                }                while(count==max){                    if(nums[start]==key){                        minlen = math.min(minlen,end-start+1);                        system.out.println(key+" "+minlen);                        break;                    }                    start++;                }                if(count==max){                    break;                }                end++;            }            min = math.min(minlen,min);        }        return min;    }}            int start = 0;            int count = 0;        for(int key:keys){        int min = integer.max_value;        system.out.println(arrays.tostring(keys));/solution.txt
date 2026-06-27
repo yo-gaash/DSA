@@ -1,0 +1,29 @@
+            int end = 0;
+            int minLen = Integer.MAX_VALUE;
+            while(end<=nums.length-1){
+                if(nums[end]==key){
+                    count++;
+                }
+                while(count==max){
+                    if(nums[start]==key){
+                        minLen = Math.min(minLen,end-start+1);
+                        System.out.println(key+" "+minLen);
+                        break;
+                    }
+                    start++;
+                }
+                if(count==max){
+                    break;
+                }
+                end++;
+            }
+            min = Math.min(minLen,min);
+        }
+        return min;
+    }
+}
+            int start = 0;
+            int count = 0;
+        for(int key:keys){
+        int min = Integer.MAX_VALUE;
+        System.out.println(Arrays.toString(keys));
