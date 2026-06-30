@@ -85,6 +85,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
