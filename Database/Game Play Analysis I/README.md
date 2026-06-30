@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Activity</code></p>
+Table: Activity
 
-<pre>
 +--------------+---------+
 | Column Name  | Type    |
 +--------------+---------+
@@ -19,21 +18,20 @@
 (player_id, event_date) is the primary key (combination of columns with unique values) of this table.
 This table shows the activity of players of some games.
 Each row is a record of a player who logged in and played a number of games (possibly 0) before logging out on someday using some device.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to find the <strong>first login date</strong> for each player.</p>
+ 
 
-<p>Return the result table in <strong>any order</strong>.</p>
+Write a solution to find the first login date for each player.
 
-<p>The result format is in the following example.</p>
+Return the result table in any order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Activity table:
 +-----------+-----------+------------+--------------+
 | player_id | device_id | event_date | games_played |
@@ -44,7 +42,7 @@ Activity table:
 | 3         | 1         | 2016-03-02 | 0            |
 | 3         | 4         | 2018-07-03 | 5            |
 +-----------+-----------+------------+--------------+
-<strong>Output:</strong> 
+Output: 
 +-----------+-------------+
 | player_id | first_login |
 +-----------+-------------+
@@ -52,8 +50,30 @@ Activity table:
 | 2         | 2017-06-25  |
 | 3         | 2016-03-02  |
 +-----------+-------------+
-</pre>
 
+## Examples
+
+```
+Input: 
+Activity table:
++-----------+-----------+------------+--------------+
+| player_id | device_id | event_date | games_played |
++-----------+-----------+------------+--------------+
+| 1         | 2         | 2016-03-01 | 5            |
+| 1         | 2         | 2016-05-02 | 6            |
+| 2         | 3         | 2017-06-25 | 1            |
+| 3         | 1         | 2016-03-02 | 0            |
+| 3         | 4         | 2018-07-03 | 5            |
++-----------+-----------+------------+--------------+
+Output: 
++-----------+-------------+
+| player_id | first_login |
++-----------+-------------+
+| 1         | 2016-03-01  |
+| 2         | 2017-06-25  |
+| 3         | 2016-03-02  |
++-----------+-------------+
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
