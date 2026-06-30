@@ -16,8 +16,11 @@ class Solution {
         }
         System.out.println(sb.toString());
         StringBuilder ans = new StringBuilder();
+        for(int i=0;i<=idx;i++){
+            ans.append(s.charAt(i));
+        }
         int j=0;
-        for(int i=0;i<=sb.length()-1;i++){
+        for(int i=idx;i<=sb.length()-1;i++){
             if(j==k){
                 ans.append('-');
                 j=0;
