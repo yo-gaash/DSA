@@ -1,13 +1,5 @@
 class Solution {
     public String licenseKeyFormatting(String s, int k) {
-        int idx = s.indexOf('-');
-        int count = 0;
-        for(int i=idx+1;i<=s.length()-1;i++){
-            if(Character.isLetter(s.charAt(i))||Character.isDigit(s.charAt(i))){
-                count++;
-            }
-        }
-        System.out.println(count);
         StringBuilder sb = new StringBuilder();
         for(int i=0;i<=s.length()-1;i++){
             if(Character.isLetter(s.charAt(i))||Character.isDigit(s.charAt(i))){
@@ -15,20 +7,19 @@ class Solution {
             }
         }
         System.out.println(sb.toString());
-        StringBuilder ans = new StringBuilder();
-        for(int i=0;i<=idx;i++){
-            ans.append(s.charAt(i));
-        }
-        int j=0;
-        for(int i=idx;i<=sb.length()-1;i++){
-            if(j==k){
-                ans.append('-');
-                j=0;
+        StringBuilder result = new StringBuilder();
+        System.out.println(sb.length());
+        int temp = 0;
+        for(int i=sb.length()-1;i>=0;i--){
+            result.append(sb.charAt(i));
+            temp++;
+            if(temp==k&&i!=0){
+                result.append("-");
+                temp = 0;
             }
-            ans.append(sb.charAt(i));
-            j++;
         }
-        //System.out.println(ans.toString());
-        return ans.toString().toUpperCase();
+        System.out.println(result.toString());
+        //System.out.println(result.reverse().toString());
+        return result.reverse().toString().toUpperCase();
     }
 }
