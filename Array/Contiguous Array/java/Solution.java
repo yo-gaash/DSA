@@ -22,6 +22,7 @@ class Solution {
         for(Map.Entry<Integer,Integer> entry:index.entrySet()){
             max = Math.max(max,entry.getValue()-entry.getKey());
         }
+        max = max==Integer.MIN_VALUE?0:max;
         return max;
     }
 }
