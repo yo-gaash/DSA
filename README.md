@@ -49,6 +49,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](./Database/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
 </details>
