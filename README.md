@@ -106,6 +106,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Two Pointers
+<details>
+<summary>Click to expand Two Pointers problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1768 | [Merge Strings Alternately](./Two%20Pointers/Merge%20Strings%20Alternately/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
