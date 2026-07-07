@@ -5,7 +5,7 @@ class Solution {
             return false;
         }
         int start = 0;
-        for(int end = 0;end<=s.length()/2;end++){
+        for(int end = 0;end<s.length()/2;end++){
             if(n%(end+1) == 0){
                 String s1 = s.substring(start,end+1);
                 System.out.println("Main String : "+s1);
