@@ -1,6 +1,6 @@
 public class Solution {
     public void MoveZeroes(int[] nums) {
-        int zeroIdx = -1;
+        int zeroIdx = 0;
         for(int i=0;i<=nums.Length-1;i++){
             if(nums[i]==0){
                 zeroIdx = i;
