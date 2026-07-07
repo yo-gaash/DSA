@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
