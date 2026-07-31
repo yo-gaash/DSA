@@ -130,6 +130,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
+| 1143 | [Longest Common Subsequence](./String/Longest%20Common%20Subsequence/) | Medium |
 
 </details>
 
