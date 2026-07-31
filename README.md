@@ -116,6 +116,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 
 </details>
 
