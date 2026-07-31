@@ -107,6 +107,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 
 </details>
 
