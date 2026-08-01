@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:54:49.118Z",
+  "lastUpdated": "2026-08-01T09:54:56.252Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -940,6 +940,198 @@
               "runtime": "364 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
+            }
+          }
+        },
+        "customer-placing-the-largest-number-of-orders": {
+          "questionId": "586",
+          "title": "Customer Placing the Largest Number of Orders",
+          "titleSlug": "customer-placing-the-largest-number-of-orders",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096251,
+              "runtime": "630 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096251,
+              "runtime": "500 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "delete-duplicate-emails": {
+          "questionId": "196",
+          "title": "Delete Duplicate Emails",
+          "titleSlug": "delete-duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096251,
+              "runtime": "1434 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096252,
+              "runtime": "575 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096252,
+              "runtime": "448 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096252,
+              "runtime": "386 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578096252,
+              "runtime": "437 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "reverse-string-prefix": {
+          "questionId": "3794",
+          "title": "Reverse String Prefix",
+          "titleSlug": "reverse-string-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578096252,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String Prefix/"
+            }
+          }
+        },
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578096252,
+              "runtime": "0 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578096252,
+              "runtime": "1 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "sort-array-by-parity-ii": {
+          "questionId": "922",
+          "title": "Sort Array By Parity II",
+          "titleSlug": "sort-array-by-parity-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578096252,
+              "runtime": "3 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Sort Array By Parity II/"
             }
           }
         }

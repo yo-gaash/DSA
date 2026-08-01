@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578089118" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578096253" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,6 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
@@ -32,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
+| 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1822 | [Sign of the Product of an Array](./Array/Sign%20of%20the%20Product%20of%20an%20Array/) | Easy |
@@ -47,9 +49,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
+| 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
+| 183 | [Customers Who Never Order](./Database/Customers%20Who%20Never%20Order/) | Easy |
+| 196 | [Delete Duplicate Emails](./Database/Delete%20Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
+| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 577 | [Employee Bonus](./Database/Employee%20Bonus/) | Easy |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
+| 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 596 | [Classes With at Least 5 Students](./Database/Classes%20With%20at%20Least%205%20Students/) | Easy |
 | 607 | [Sales Person](./Database/Sales%20Person/) | Easy |
@@ -127,7 +136,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
+| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 1768 | [Merge Strings Alternately](./Two%20Pointers/Merge%20Strings%20Alternately/) | Easy |
+| 3794 | [Reverse String Prefix](./Two%20Pointers/Reverse%20String%20Prefix/) | Easy |
 
 </details>
 
