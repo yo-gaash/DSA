@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:54:29.479Z",
+  "lastUpdated": "2026-08-01T09:54:34.575Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -447,6 +447,157 @@
               "runtime": "4 ms",
               "memory": "72.4 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "742 ms",
+              "memory": "66.4 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "maximum-count-of-positive-integer-and-negative-integer": {
+          "questionId": "2529",
+          "title": "Maximum Count of Positive Integer and Negative Integer",
+          "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "0 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "25 ms",
+              "memory": "90.6 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "n-queens": {
+          "questionId": "51",
+          "title": "N-Queens",
+          "titleSlug": "n-queens",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "16 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/N-Queens/"
+            }
+          }
+        },
+        "intersection-of-two-linked-lists": {
+          "questionId": "160",
+          "title": "Intersection of Two Linked Lists",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578074575,
+              "runtime": "1 ms",
+              "memory": "53 MB",
+              "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
             }
           }
         }
