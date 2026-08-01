@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:54:26.146Z",
+  "lastUpdated": "2026-08-01T09:54:29.479Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -372,6 +372,81 @@
               "runtime": "5 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Array/Degree of an Array/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578069479,
+              "runtime": "7 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "rotate-list": {
+          "questionId": "61",
+          "title": "Rotate List",
+          "titleSlug": "rotate-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578069479,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Linked List/Rotate List/"
+            }
+          }
+        },
+        "find-array-given-subset-sums": {
+          "questionId": "1982",
+          "title": "Find Array Given Subset Sums",
+          "titleSlug": "find-array-given-subset-sums",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578069479,
+              "runtime": "163 ms",
+              "memory": "64.9 MB",
+              "githubPath": "LeetCode/Array/Find Array Given Subset Sums/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578069479,
+              "runtime": "4 ms",
+              "memory": "72.4 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
             }
           }
         }
