@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578137369" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578143408" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -48,6 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
+| 832 | [Flipping an Image](./Array/Flipping%20an%20Image/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
@@ -56,12 +57,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 989 | [Add to Array-Form of Integer](./Array/Add%20to%20Array-Form%20of%20Integer/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1252 | [Cells with Odd Values in a Matrix](./Array/Cells%20with%20Odd%20Values%20in%20a%20Matrix/) | Easy |
+| 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](./Array/Lucky%20Numbers%20in%20a%20Matrix/) | Easy |
+| 1389 | [Create Target Array in the Given Order](./Array/Create%20Target%20Array%20in%20the%20Given%20Order/) | Easy |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
+| 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
+| 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
+| 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1773 | [Count Items Matching a Rule](./Array/Count%20Items%20Matching%20a%20Rule/) | Easy |
 | 1822 | [Sign of the Product of an Array](./Array/Sign%20of%20the%20Product%20of%20an%20Array/) | Easy |
 | 1854 | [Maximum Population Year](./Array/Maximum%20Population%20Year/) | Easy |
@@ -121,6 +131,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
+| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 
 </details>
 

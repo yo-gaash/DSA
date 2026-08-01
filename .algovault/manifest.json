@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:37.368Z",
+  "lastUpdated": "2026-08-01T09:55:43.407Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1965,6 +1965,211 @@
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "find-numbers-with-even-number-of-digits": {
+          "questionId": "1295",
+          "title": "Find Numbers with Even Number of Digits",
+          "titleSlug": "find-numbers-with-even-number-of-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143406,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Find Numbers with Even Number of Digits/"
+            }
+          }
+        },
+        "matrix-diagonal-sum": {
+          "questionId": "1572",
+          "title": "Matrix Diagonal Sum",
+          "titleSlug": "matrix-diagonal-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
+            }
+          }
+        },
+        "cells-with-odd-values-in-a-matrix": {
+          "questionId": "1252",
+          "title": "Cells with Odd Values in a Matrix",
+          "titleSlug": "cells-with-odd-values-in-a-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "2 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Cells with Odd Values in a Matrix/"
+            }
+          }
+        },
+        "flipping-an-image": {
+          "questionId": "832",
+          "title": "Flipping an Image",
+          "titleSlug": "flipping-an-image",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Bit Manipulation",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "0 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Array/Flipping an Image/"
+            }
+          }
+        },
+        "find-the-highest-altitude": {
+          "questionId": "1732",
+          "title": "Find the Highest Altitude",
+          "titleSlug": "find-the-highest-altitude",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Find the Highest Altitude/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "create-target-array-in-the-given-order": {
+          "questionId": "1389",
+          "title": "Create Target Array in the Given Order",
+          "titleSlug": "create-target-array-in-the-given-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Create Target Array in the Given Order/"
+            }
+          }
+        },
+        "how-many-numbers-are-smaller-than-the-current-number": {
+          "questionId": "1365",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "8 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "kids-with-the-greatest-number-of-candies": {
+          "questionId": "1431",
+          "title": "Kids With the Greatest Number of Candies",
+          "titleSlug": "kids-with-the-greatest-number-of-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "1 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Kids With the Greatest Number of Candies/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578143407,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
             }
           }
         }
