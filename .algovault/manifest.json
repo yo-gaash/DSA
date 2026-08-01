@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:17.629Z",
+  "lastUpdated": "2026-08-01T09:55:22.885Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -18,6 +18,12 @@
               "syncedAt": 1785578052962,
               "runtime": "1 ms",
               "memory": "58.4 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            },
+            "java": {
+              "syncedAt": 1785578122885,
+              "runtime": "2 ms",
+              "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
             }
           }
@@ -1536,6 +1542,82 @@
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578122885,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578122885,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578122885,
+              "runtime": "0 ms",
+              "memory": "61 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578122885,
+              "runtime": "3 ms",
+              "memory": "52.8 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
             }
           }
         }
