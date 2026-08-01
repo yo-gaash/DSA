@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:54:12.962Z",
+  "lastUpdated": "2026-08-01T09:54:19.813Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1785578052962,
+              "syncedAt": 1785578059813,
               "runtime": "1 ms",
               "memory": "58.4 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -34,7 +34,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1785578052962,
+              "syncedAt": 1785578059813,
               "runtime": "40 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -52,7 +52,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1785578052962,
+              "syncedAt": 1785578059813,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
@@ -70,7 +70,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578052962,
+              "syncedAt": 1785578059813,
               "runtime": "30 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
@@ -89,7 +89,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1785578052962,
+              "syncedAt": 1785578059813,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
