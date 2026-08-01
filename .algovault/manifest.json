@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T10:25:04.530Z",
+  "lastUpdated": "2026-08-01T11:10:58.318Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2440,6 +2440,25 @@
               "runtime": "7 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
+            }
+          }
+        },
+        "power-of-two": {
+          "questionId": "231",
+          "title": "Power of Two",
+          "titleSlug": "power-of-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785582658317,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Power of Two/"
             }
           }
         }
