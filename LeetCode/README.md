@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578127615" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578132628" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,16 +20,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
@@ -40,8 +43,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 566 | [Reshape the Matrix](./Array/Reshape%20the%20Matrix/) | Easy |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
+| 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
+| 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
