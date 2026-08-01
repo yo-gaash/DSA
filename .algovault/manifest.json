@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:43.407Z",
+  "lastUpdated": "2026-08-01T09:55:47.349Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2170,6 +2170,77 @@
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "determine-if-string-halves-are-alike": {
+          "questionId": "1704",
+          "title": "Determine if String Halves Are Alike",
+          "titleSlug": "determine-if-string-halves-are-alike",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578147349,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Determine if String Halves Are Alike/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578147349,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "check-if-two-string-arrays-are-equivalent": {
+          "questionId": "1662",
+          "title": "Check If Two String Arrays are Equivalent",
+          "titleSlug": "check-if-two-string-arrays-are-equivalent",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578147349,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
+            }
+          }
+        },
+        "sorting-the-sentence": {
+          "questionId": "1859",
+          "title": "Sorting the Sentence",
+          "titleSlug": "sorting-the-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578147349,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
             }
           }
         }

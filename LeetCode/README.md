@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578143408" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578147350" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -70,6 +70,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1773 | [Count Items Matching a Rule](./Array/Count%20Items%20Matching%20a%20Rule/) | Easy |
@@ -177,9 +178,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
+| 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 921 | [Minimum Add to Make Parentheses Valid](./String/Minimum%20Add%20to%20Make%20Parentheses%20Valid/) | Medium |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
+| 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
+| 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
 
 </details>
 
