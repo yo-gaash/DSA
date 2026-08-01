@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:51.022Z",
+  "lastUpdated": "2026-08-01T09:55:55.791Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2313,6 +2313,97 @@
               "runtime": "22 ms",
               "memory": "53.9 MB",
               "githubPath": "LeetCode/String/Longest Common Subsequence/"
+            }
+          }
+        },
+        "coin-change": {
+          "questionId": "322",
+          "title": "Coin Change",
+          "titleSlug": "coin-change",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578155791,
+              "runtime": "18 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Coin Change/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578155791,
+              "runtime": "2 ms",
+              "memory": "94.4 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "triangle": {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578155791,
+              "runtime": "4 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Triangle/"
+            }
+          }
+        },
+        "house-robber-ii": {
+          "questionId": "213",
+          "title": "House Robber II",
+          "titleSlug": "house-robber-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578155791,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/House Robber II/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578155791,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
             }
           }
         }
