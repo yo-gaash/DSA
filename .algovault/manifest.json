@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:32.620Z",
+  "lastUpdated": "2026-08-01T09:55:37.368Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1855,6 +1855,116 @@
               "runtime": "1 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Reshape the Matrix/"
+            }
+          }
+        },
+        "lucky-numbers-in-a-matrix": {
+          "questionId": "1380",
+          "title": "Lucky Numbers in a Matrix",
+          "titleSlug": "lucky-numbers-in-a-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578137368,
+              "runtime": "6 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Lucky Numbers in a Matrix/"
+            }
+          }
+        },
+        "find-n-unique-integers-sum-up-to-zero": {
+          "questionId": "1304",
+          "title": "Find N Unique Integers Sum up to Zero",
+          "titleSlug": "find-n-unique-integers-sum-up-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578137368,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Find N Unique Integers Sum up to Zero/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578137368,
+              "runtime": "46 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "maximum-population-year": {
+          "questionId": "1854",
+          "title": "Maximum Population Year",
+          "titleSlug": "maximum-population-year",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Counting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578137368,
+              "runtime": "3 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Population Year/"
+            }
+          }
+        },
+        "add-to-array-form-of-integer": {
+          "questionId": "989",
+          "title": "Add to Array-Form of Integer",
+          "titleSlug": "add-to-array-form-of-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578137368,
+              "runtime": "3 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Add to Array-Form of Integer/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578137368,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
             }
           }
         }
