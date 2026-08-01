@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T10:15:41.643Z",
+  "lastUpdated": "2026-08-01T10:25:04.530Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2422,6 +2422,24 @@
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "counting-bits": {
+          "questionId": "338",
+          "title": "Counting Bits",
+          "titleSlug": "counting-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785579904529,
+              "runtime": "7 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
             }
           }
         }
