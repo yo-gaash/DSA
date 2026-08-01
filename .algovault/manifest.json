@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:55.791Z",
+  "lastUpdated": "2026-08-01T10:01:41.694Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1556,9 +1556,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578122885,
+              "syncedAt": 1785578501693,
               "runtime": "1 ms",
-              "memory": "46.7 MB",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Single Number/"
             }
           }
