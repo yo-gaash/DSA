@@ -2,153 +2,25 @@
 
 
 <!-- ALGOVAULT:STATS:START -->
-# 🚀 Data Structures & Algorithms Master Repository
+# 🏆 Ultimate Competitive Programming & DSA Vault
 
-A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
+Welcome to my **Master Repository** for Data Structures, Algorithms, and Competitive Programming! 🚀
+
+This repository contains my personal library of highly optimized, strictly tested, and structured solutions to problems across multiple platforms. It is designed to track my progress, document optimal coding patterns, and demonstrate technical excellence in problem-solving.
+
+## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/the_yogzzz?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578053316" width="100%" />
 </p>
 
-# 📚 Structured Problem Solving Topics
+## 📂 Repository Structure
 
+- **[LeetCode](./LeetCode)**: Topic-wise FAANG interview preparation and algorithmic challenges.
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
-| 46 | [Permutations](./Array/Permutations/) | Medium |
-| 51 | [N-Queens](./Array/N-Queens/) | Hard |
-| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
-| 66 | [Plus One](./Array/Plus%20One/) | Easy |
-| 78 | [Subsets](./Array/Subsets/) | Medium |
-| 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
-| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
-| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
-| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
-| 120 | [Triangle](./Array/Triangle/) | Medium |
-| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
-| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
-| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
-| 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
-| 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
-| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
-| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
-| 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
-| 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
-| 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
-| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
-| 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
-| 1822 | [Sign of the Product of an Array](./Array/Sign%20of%20the%20Product%20of%20an%20Array/) | Easy |
-| 1982 | [Find Array Given Subset Sums](./Array/Find%20Array%20Given%20Subset%20Sums/) | Hard |
-
-</details>
-
-
-### Database
-<details>
-<summary>Click to expand Database problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
-| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
-| 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
-| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
-| 577 | [Employee Bonus](./Database/Employee%20Bonus/) | Easy |
-| 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
-| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
-| 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
-| 1068 | [Product Sales Analysis I](./Database/Product%20Sales%20Analysis%20I/) | Easy |
-| 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
-| 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
-| 1581 | [Customer Who Visited but Did Not Make Any Transactions](./Database/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/) | Easy |
-| 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
-| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
-
-</details>
-
-
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Degree of an Array](./General/Degree%20of%20an%20Array/) | Medium |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
-| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-
-</details>
-
-
-### Linked List
-<details>
-<summary>Click to expand Linked List problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
-| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Easy |
-
-</details>
-
-
-### Math
-<details>
-<summary>Click to expand Math problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
-| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
-| 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
-| 1025 | [Divisor Game](./Math/Divisor%20Game/) | Easy |
-
-</details>
-
-
-### String
-<details>
-<summary>Click to expand String problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
-| 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
-| 1143 | [Longest Common Subsequence](./String/Longest%20Common%20Subsequence/) | Medium |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1768 | [Merge Strings Alternately](./Two%20Pointers/Merge%20Strings%20Alternately/) | Easy |
-
-</details>
-
-
+---
 <p align="center">
-Building Technical Excellence Through Consistent Problem Solving.
+  <i>Auto-generated & continuously synced by <b>AlgoVault</b>. Building technical excellence through consistent problem solving.</i>
 </p>
 
 <!-- ALGOVAULT:STATS:END -->

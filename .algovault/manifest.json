@@ -1,0 +1,103 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-01T09:54:12.962Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1785578052962,
+              "runtime": "1 ms",
+              "memory": "58.4 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1785578052962,
+              "runtime": "40 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "sign-of-the-product-of-an-array": {
+          "questionId": "1822",
+          "title": "Sign of the Product of an Array",
+          "titleSlug": "sign-of-the-product-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1785578052962,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578052962,
+              "runtime": "30 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1785578052962,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        }
+      },
+      "username": "the_yogzzz"
+    }
+  }
+}
