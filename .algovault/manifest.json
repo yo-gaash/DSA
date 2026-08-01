@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:54:19.612Z",
+  "lastUpdated": "2026-08-01T09:54:26.146Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -301,6 +301,77 @@
               "runtime": "1458 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578066146,
+              "runtime": "1534 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578066146,
+              "runtime": "69 ms",
+              "memory": "78.5 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "license-key-formatting": {
+          "questionId": "482",
+          "title": "License Key Formatting",
+          "titleSlug": "license-key-formatting",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578066146,
+              "runtime": "21 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/String/License Key Formatting/"
+            }
+          }
+        },
+        "degree-of-an-array": {
+          "questionId": "697",
+          "title": "Degree of an Array",
+          "titleSlug": "degree-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578066146,
+              "runtime": "5 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Degree of an Array/"
             }
           }
         }
