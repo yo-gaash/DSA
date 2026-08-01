@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:00.796Z",
+  "lastUpdated": "2026-08-01T09:55:07.081Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1243,6 +1243,134 @@
               "runtime": "359 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "2 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "14 ms",
+              "memory": "93.4 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "count-items-matching-a-rule": {
+          "questionId": "1773",
+          "title": "Count Items Matching a Rule",
+          "titleSlug": "count-items-matching-a-rule",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "4 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Array/Count Items Matching a Rule/"
+            }
+          }
+        },
+        "goal-parser-interpretation": {
+          "questionId": "1678",
+          "title": "Goal Parser Interpretation",
+          "titleSlug": "goal-parser-interpretation",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Goal Parser Interpretation/"
+            }
+          }
+        },
+        "shuffle-string": {
+          "questionId": "1528",
+          "title": "Shuffle String",
+          "titleSlug": "shuffle-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "4 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Shuffle String/"
+            }
+          }
+        },
+        "defanging-an-ip-address": {
+          "questionId": "1108",
+          "title": "Defanging an IP Address",
+          "titleSlug": "defanging-an-ip-address",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/String/Defanging an IP Address/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578107081,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
             }
           }
         }
