@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578147350" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578151023" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -33,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -79,6 +80,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1982 | [Find Array Given Subset Sums](./Array/Find%20Array%20Given%20Subset%20Sums/) | Hard |
+| 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 
 </details>
@@ -155,6 +157,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
+
+</details>
+
+
 ### Stack
 <details>
 <summary>Click to expand Stack problems</summary>
@@ -181,6 +194,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 921 | [Minimum Add to Make Parentheses Valid](./String/Minimum%20Add%20to%20Make%20Parentheses%20Valid/) | Medium |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
+| 1143 | [Longest Common Subsequence](./String/Longest%20Common%20Subsequence/) | Medium |
 | 1678 | [Goal Parser Interpretation](./String/Goal%20Parser%20Interpretation/) | Easy |
 | 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
 | 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |

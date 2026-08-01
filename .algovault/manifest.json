@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:55:47.349Z",
+  "lastUpdated": "2026-08-01T09:55:51.022Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2241,6 +2241,78 @@
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Sorting the Sentence/"
+            }
+          }
+        },
+        "subtract-the-product-and-sum-of-digits-of-an-integer": {
+          "questionId": "1281",
+          "title": "Subtract the Product and Sum of Digits of an Integer",
+          "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578151022,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
+            }
+          }
+        },
+        "apply-operations-to-an-array": {
+          "questionId": "2460",
+          "title": "Apply Operations to an Array",
+          "titleSlug": "apply-operations-to-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578151022,
+              "runtime": "1 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Apply Operations to an Array/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578151022,
+              "runtime": "2 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        },
+        "longest-common-subsequence": {
+          "questionId": "1143",
+          "title": "Longest Common Subsequence",
+          "titleSlug": "longest-common-subsequence",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578151022,
+              "runtime": "22 ms",
+              "memory": "53.9 MB",
+              "githubPath": "LeetCode/String/Longest Common Subsequence/"
             }
           }
         }
