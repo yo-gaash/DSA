@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T09:54:43.114Z",
+  "lastUpdated": "2026-08-01T09:54:49.118Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -782,6 +782,164 @@
               "runtime": "4 ms",
               "memory": "51.2 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578089117,
+              "runtime": "2610 ms",
+              "memory": "61.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578089117,
+              "runtime": "5 ms",
+              "memory": "77.2 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578089117,
+              "runtime": "3 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "biggest-single-number": {
+          "questionId": "619",
+          "title": "Biggest Single Number",
+          "titleSlug": "biggest-single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578089117,
+              "runtime": "407 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Biggest Single Number/"
+            }
+          }
+        },
+        "sales-person": {
+          "questionId": "607",
+          "title": "Sales Person",
+          "titleSlug": "sales-person",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578089117,
+              "runtime": "1394 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Sales Person/"
+            }
+          }
+        },
+        "find-total-time-spent-by-each-employee": {
+          "questionId": "1741",
+          "title": "Find Total Time Spent by Each Employee",
+          "titleSlug": "find-total-time-spent-by-each-employee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578089117,
+              "runtime": "533 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Total Time Spent by Each Employee/"
+            }
+          }
+        },
+        "daily-leads-and-partners": {
+          "questionId": "1693",
+          "title": "Daily Leads and Partners",
+          "titleSlug": "daily-leads-and-partners",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578089117,
+              "runtime": "599 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Daily Leads and Partners/"
+            }
+          }
+        },
+        "number-of-unique-subjects-taught-by-each-teacher": {
+          "questionId": "2356",
+          "title": "Number of Unique Subjects Taught by Each Teacher",
+          "titleSlug": "number-of-unique-subjects-taught-by-each-teacher",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578089117,
+              "runtime": "796 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Number of Unique Subjects Taught by Each Teacher/"
+            }
+          }
+        },
+        "classes-with-at-least-5-students": {
+          "questionId": "596",
+          "title": "Classes With at Least 5 Students",
+          "titleSlug": "classes-with-at-least-5-students",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785578089118,
+              "runtime": "364 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
             }
           }
         }

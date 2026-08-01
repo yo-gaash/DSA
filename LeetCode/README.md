@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578083114" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785578089118" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
@@ -23,6 +24,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
@@ -31,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1822 | [Sign of the Product of an Array](./Array/Sign%20of%20the%20Product%20of%20an%20Array/) | Easy |
 | 1982 | [Find Array Given Subset Sums](./Array/Find%20Array%20Given%20Subset%20Sums/) | Hard |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
@@ -48,13 +51,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 577 | [Employee Bonus](./Database/Employee%20Bonus/) | Easy |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 596 | [Classes With at Least 5 Students](./Database/Classes%20With%20at%20Least%205%20Students/) | Easy |
+| 607 | [Sales Person](./Database/Sales%20Person/) | Easy |
+| 619 | [Biggest Single Number](./Database/Biggest%20Single%20Number/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 1068 | [Product Sales Analysis I](./Database/Product%20Sales%20Analysis%20I/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](./Database/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
+| 1693 | [Daily Leads and Partners](./Database/Daily%20Leads%20and%20Partners/) | Easy |
+| 1741 | [Find Total Time Spent by Each Employee](./Database/Find%20Total%20Time%20Spent%20by%20Each%20Employee/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/) | Easy |
 
 </details>
 
