@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:30:18.996Z",
+  "lastUpdated": "2026-08-03T06:30:25.304Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1775,7 +1775,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578132620,
+              "syncedAt": 1785738625304,
               "runtime": "0 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -1793,7 +1793,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578132620,
+              "syncedAt": 1785738625304,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
@@ -1814,7 +1814,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578132620,
+              "syncedAt": 1785738625304,
               "runtime": "6 ms",
               "memory": "55.8 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -1832,7 +1832,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578132620,
+              "syncedAt": 1785738625304,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -1851,7 +1851,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578132620,
+              "syncedAt": 1785738625304,
               "runtime": "1 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Reshape the Matrix/"
