@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T08:48:40.627Z",
+  "lastUpdated": "2026-08-03T08:53:58.192Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3957,6 +3957,12 @@
               "syncedAt": 1785746920627,
               "runtime": "0 ms",
               "memory": "42.1 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Complement of Base 10 Integer/"
+            },
+            "123546class solution {    public int bitwisecomplement(int n) {        int mask = (1<<integer.tobinarystring(n).length())-1;    }        return (~n)&mask;}": {
+              "syncedAt": 1785747238191,
+              "runtime": "0 ms",
+              "memory": "0.00 MB",
               "githubPath": "LeetCode/Bit Manipulation/Complement of Base 10 Integer/"
             }
           }
