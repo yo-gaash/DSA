@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:30:43.446Z",
+  "lastUpdated": "2026-08-03T06:30:49.540Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2184,7 +2184,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578147349,
+              "syncedAt": 1785738649540,
               "runtime": "1 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Determine if String Halves Are Alike/"
@@ -2201,7 +2201,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578147349,
+              "syncedAt": 1785738649540,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
@@ -2219,7 +2219,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578147349,
+              "syncedAt": 1785738649540,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
@@ -2237,7 +2237,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578147349,
+              "syncedAt": 1785738649540,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Sorting the Sentence/"
