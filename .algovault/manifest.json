@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:30:56.219Z",
+  "lastUpdated": "2026-08-03T06:31:01.388Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2346,7 +2346,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578155791,
+              "syncedAt": 1785738661388,
               "runtime": "2 ms",
               "memory": "94.4 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -2364,7 +2364,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578155791,
+              "syncedAt": 1785738661388,
               "runtime": "4 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Triangle/"
@@ -2382,7 +2382,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578155791,
+              "syncedAt": 1785738661388,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/House Robber II/"
@@ -2400,7 +2400,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578155791,
+              "syncedAt": 1785738661388,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/House Robber/"
