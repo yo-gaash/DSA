@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:31:55.057Z",
+  "lastUpdated": "2026-08-03T06:32:10.512Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -43,6 +43,12 @@
               "syncedAt": 1785738502434,
               "runtime": "40 ms",
               "memory": "44.1 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            },
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "5 ms",
+              "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
             }
           }
@@ -3433,6 +3439,194 @@
               "runtime": "1 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "construct-target-array-with-multiple-sums": {
+          "questionId": "1354",
+          "title": "Construct Target Array With Multiple Sums",
+          "titleSlug": "construct-target-array-with-multiple-sums",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "8 ms",
+              "memory": "54.8 MB",
+              "githubPath": "LeetCode/Array/Construct Target Array With Multiple Sums/"
+            }
+          }
+        },
+        "partition-labels": {
+          "questionId": "763",
+          "title": "Partition Labels",
+          "titleSlug": "partition-labels",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "5 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Hash Table/Partition Labels/"
+            }
+          }
+        },
+        "linked-list-in-binary-tree": {
+          "questionId": "1367",
+          "title": "Linked List in Binary Tree",
+          "titleSlug": "linked-list-in-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Linked List/Linked List in Binary Tree/"
+            }
+          }
+        },
+        "largest-positive-integer-that-exists-with-its-negative": {
+          "questionId": "2441",
+          "title": "Largest Positive Integer That Exists With Its Negative",
+          "titleSlug": "largest-positive-integer-that-exists-with-its-negative",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "5 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Largest Positive Integer That Exists With Its Negative/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "2 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "0 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "8 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "0 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "1 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738730511,
+              "runtime": "16 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
             }
           }
         }

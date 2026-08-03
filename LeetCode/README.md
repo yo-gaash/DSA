@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738715059" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738730513" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -100,6 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
 | 1353 | [Maximum Number of Events That Can Be Attended](./Array/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/) | Medium |
+| 1354 | [Construct Target Array With Multiple Sums](./Array/Construct%20Target%20Array%20With%20Multiple%20Sums/) | Hard |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](./Array/Lucky%20Numbers%20in%20a%20Matrix/) | Easy |
 | 1389 | [Create Target Array in the Given Order](./Array/Create%20Target%20Array%20in%20the%20Given%20Order/) | Easy |
@@ -119,6 +120,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1982 | [Find Array Given Subset Sums](./Array/Find%20Array%20Given%20Subset%20Sums/) | Hard |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](./Array/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/) | Easy |
 | 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
@@ -209,6 +211,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
+| 763 | [Partition Labels](./Hash%20Table/Partition%20Labels/) | Medium |
 | 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 
 </details>
@@ -228,6 +231,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
 | 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
+| 1367 | [Linked List in Binary Tree](./Linked%20List/Linked%20List%20in%20Binary%20Tree/) | Medium |
 
 </details>
 
@@ -239,10 +243,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
+| 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 | 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
@@ -299,6 +308,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
+| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 1768 | [Merge Strings Alternately](./Two%20Pointers/Merge%20Strings%20Alternately/) | Easy |
