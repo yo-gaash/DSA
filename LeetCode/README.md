@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738707213" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738715059" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -44,9 +44,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
@@ -119,6 +121,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1982 | [Find Array Given Subset Sums](./Array/Find%20Array%20Given%20Subset%20Sums/) | Hard |
 | 2460 | [Apply Operations to an Array](./Array/Apply%20Operations%20to%20an%20Array/) | Easy |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
+| 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
 
 </details>
 
@@ -235,6 +238,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
@@ -273,6 +277,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |

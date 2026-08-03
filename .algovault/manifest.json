@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:31:47.211Z",
+  "lastUpdated": "2026-08-03T06:31:55.057Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3343,6 +3343,96 @@
               "runtime": "3 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
+            }
+          }
+        },
+        "restore-finishing-order": {
+          "questionId": "3668",
+          "title": "Restore Finishing Order",
+          "titleSlug": "restore-finishing-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738715057,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Restore Finishing Order/"
+            }
+          }
+        },
+        "unique-paths": {
+          "questionId": "62",
+          "title": "Unique Paths",
+          "titleSlug": "unique-paths",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738715057,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Unique Paths/"
+            }
+          }
+        },
+        "range-sum-query-immutable": {
+          "questionId": "303",
+          "title": "Range Sum Query - Immutable",
+          "titleSlug": "range-sum-query-immutable",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Design",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738715057,
+              "runtime": "7 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738715057,
+              "runtime": "3 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738715057,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
             }
           }
         }
