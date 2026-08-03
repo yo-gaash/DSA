@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:32:10.512Z",
+  "lastUpdated": "2026-08-03T06:32:23.390Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -104,6 +104,12 @@
               "syncedAt": 1785738502434,
               "runtime": "0 ms",
               "memory": "40.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            },
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
             }
           }
@@ -3627,6 +3633,186 @@
               "runtime": "16 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "1 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "6 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "5 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "1 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "first-bad-version": {
+          "questionId": "278",
+          "title": "First Bad Version",
+          "titleSlug": "first-bad-version",
+          "difficulty": "Easy",
+          "tags": [
+            "Binary Search",
+            "Interactive"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "24 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Binary Search/First Bad Version/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "1 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "pascals-triangle-ii": {
+          "questionId": "119",
+          "title": "Pascal's Triangle II",
+          "titleSlug": "pascals-triangle-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "1 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738743390,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738730513" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738743391" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
@@ -30,6 +31,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
 | 120 | [Triangle](./Array/Triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
@@ -128,6 +131,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Binary Search
+<details>
+<summary>Click to expand Binary Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
+
+</details>
+
+
 ### Bit Manipulation
 <details>
 <summary>Click to expand Bit Manipulation problems</summary>
@@ -205,6 +219,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
@@ -242,8 +257,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
+| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
@@ -252,6 +271,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
 | 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
