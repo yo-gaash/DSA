@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T11:13:11.763Z",
+  "lastUpdated": "2026-08-03T06:28:14.125Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1556,7 +1556,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785578501693,
+              "syncedAt": 1785738494125,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Single Number/"
@@ -2418,7 +2418,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785579341643,
+              "syncedAt": 1785738494125,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
@@ -2436,7 +2436,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785579904529,
+              "syncedAt": 1785738494125,
               "runtime": "7 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
@@ -2455,10 +2455,99 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785582791763,
+              "syncedAt": 1785738494125,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
+            }
+          }
+        },
+        "smallest-number-with-all-set-bits": {
+          "questionId": "3370",
+          "title": "Smallest Number With All Set Bits",
+          "titleSlug": "smallest-number-with-all-set-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738494125,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
+            }
+          }
+        },
+        "minimum-bit-flips-to-convert-number": {
+          "questionId": "2220",
+          "title": "Minimum Bit Flips to Convert Number",
+          "titleSlug": "minimum-bit-flips-to-convert-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738494125,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Minimum Bit Flips to Convert Number/"
+            }
+          }
+        },
+        "hamming-distance": {
+          "questionId": "461",
+          "title": "Hamming Distance",
+          "titleSlug": "hamming-distance",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738494125,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738494125,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "reverse-bits": {
+          "questionId": "190",
+          "title": "Reverse Bits",
+          "titleSlug": "reverse-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738494125,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
             }
           }
         }
