@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:32:35.977Z",
+  "lastUpdated": "2026-08-03T06:50:16.287Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3924,6 +3924,23 @@
               "runtime": "0 ms",
               "memory": "7.7 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
+            }
+          }
+        },
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785739816287,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
             }
           }
         }
