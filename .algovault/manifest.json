@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:50:16.287Z",
+  "lastUpdated": "2026-08-03T08:48:40.627Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3941,6 +3941,23 @@
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
+            }
+          }
+        },
+        "complement-of-base-10-integer": {
+          "questionId": "1009",
+          "title": "Complement of Base 10 Integer",
+          "titleSlug": "complement-of-base-10-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785746920627,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Complement of Base 10 Integer/"
             }
           }
         }
