@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738691446" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738707213" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -49,9 +49,25 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 322 | [Coin Change](./Array/Coin%20Change/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
+| 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
+| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
+| 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
+| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
 | 566 | [Reshape the Matrix](./Array/Reshape%20the%20Matrix/) | Easy |
+| 575 | [Distribute Candies](./Array/Distribute%20Candies/) | Easy |
+| 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
+| 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
+| 599 | [Minimum Index Sum of Two Lists](./Array/Minimum%20Index%20Sum%20of%20Two%20Lists/) | Easy |
+| 605 | [Can Place Flowers](./Array/Can%20Place%20Flowers/) | Easy |
+| 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 661 | [Image Smoother](./Array/Image%20Smoother/) | Easy |

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:31:31.444Z",
+  "lastUpdated": "2026-08-03T06:31:47.211Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3037,6 +3037,312 @@
               "runtime": "6 ms",
               "memory": "69.6 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707210,
+              "runtime": "16 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "can-place-flowers": {
+          "questionId": "605",
+          "title": "Can Place Flowers",
+          "titleSlug": "can-place-flowers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707210,
+              "runtime": "1 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Can Place Flowers/"
+            }
+          }
+        },
+        "minimum-index-sum-of-two-lists": {
+          "questionId": "599",
+          "title": "Minimum Index Sum of Two Lists",
+          "titleSlug": "minimum-index-sum-of-two-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707210,
+              "runtime": "8 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Minimum Index Sum of Two Lists/"
+            }
+          }
+        },
+        "range-addition-ii": {
+          "questionId": "598",
+          "title": "Range Addition II",
+          "titleSlug": "range-addition-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707210,
+              "runtime": "1 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Array/Range Addition II/"
+            }
+          }
+        },
+        "longest-harmonious-subsequence": {
+          "questionId": "594",
+          "title": "Longest Harmonious Subsequence",
+          "titleSlug": "longest-harmonious-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707210,
+              "runtime": "19 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Longest Harmonious Subsequence/"
+            }
+          }
+        },
+        "distribute-candies": {
+          "questionId": "575",
+          "title": "Distribute Candies",
+          "titleSlug": "distribute-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "37 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Distribute Candies/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "16 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "10 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "2 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "teemo-attacking": {
+          "questionId": "495",
+          "title": "Teemo Attacking",
+          "titleSlug": "teemo-attacking",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "3 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Teemo Attacking/"
+            }
+          }
+        },
+        "island-perimeter": {
+          "questionId": "463",
+          "title": "Island Perimeter",
+          "titleSlug": "island-perimeter",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "4 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Island Perimeter/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "14 ms",
+              "memory": "51.6 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "20 ms",
+              "memory": "74.3 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "third-maximum-number": {
+          "questionId": "414",
+          "title": "Third Maximum Number",
+          "titleSlug": "third-maximum-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "4 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Third Maximum Number/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738707211,
+              "runtime": "3 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
             }
           }
         }
