@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738664648" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738678458" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -54,15 +54,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
+| 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
 | 832 | [Flipping an Image](./Array/Flipping%20an%20Image/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
+| 883 | [Projection Area of 3D Shapes](./Array/Projection%20Area%20of%203D%20Shapes/) | Easy |
+| 892 | [Surface Area of 3D Shapes](./Array/Surface%20Area%20of%203D%20Shapes/) | Easy |
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
+| 908 | [Smallest Range I](./Array/Smallest%20Range%20I/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 989 | [Add to Array-Form of Integer](./Array/Add%20to%20Array-Form%20of%20Integer/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1030 | [Matrix Cells in Distance Order](./Array/Matrix%20Cells%20in%20Distance%20Order/) | Easy |
+| 1037 | [Valid Boomerang](./Array/Valid%20Boomerang/) | Easy |
 | 1252 | [Cells with Odd Values in a Matrix](./Array/Cells%20with%20Odd%20Values%20in%20a%20Matrix/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
@@ -206,6 +212,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
+| 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
+| 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
+| 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
+| 1025 | [Divisor Game](./Math/Divisor%20Game/) | Easy |
+| 1071 | [Greatest Common Divisor of Strings](./Math/Greatest%20Common%20Divisor%20of%20Strings/) | Easy |
+| 1154 | [Day of the Year](./Math/Day%20of%20the%20Year/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
 
