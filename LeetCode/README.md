@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738678458" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785738691446" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -39,6 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
+| 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
@@ -51,6 +52,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 566 | [Reshape the Matrix](./Array/Reshape%20the%20Matrix/) | Easy |
+| 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
+| 661 | [Image Smoother](./Array/Image%20Smoother/) | Easy |
+| 674 | [Longest Continuous Increasing Subsequence](./Array/Longest%20Continuous%20Increasing%20Subsequence/) | Easy |
+| 682 | [Baseball Game](./Array/Baseball%20Game/) | Easy |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
@@ -64,6 +70,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 908 | [Smallest Range I](./Array/Smallest%20Range%20I/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
+| 929 | [Unique Email Addresses](./Array/Unique%20Email%20Addresses/) | Easy |
+| 944 | [Delete Columns to Make Sorted](./Array/Delete%20Columns%20to%20Make%20Sorted/) | Easy |
+| 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 989 | [Add to Array-Form of Integer](./Array/Add%20to%20Array-Form%20of%20Integer/) | Easy |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
@@ -72,6 +81,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1252 | [Cells with Odd Values in a Matrix](./Array/Cells%20with%20Odd%20Values%20in%20a%20Matrix/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](./Array/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/) | Easy |
+| 1353 | [Maximum Number of Events That Can Be Attended](./Array/Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](./Array/Lucky%20Numbers%20in%20a%20Matrix/) | Easy |
 | 1389 | [Create Target Array in the Given Order](./Array/Create%20Target%20Array%20in%20the%20Given%20Order/) | Easy |
@@ -213,6 +223,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |

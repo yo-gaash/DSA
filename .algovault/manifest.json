@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T06:31:18.456Z",
+  "lastUpdated": "2026-08-03T06:31:31.444Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2831,6 +2831,212 @@
               "runtime": "2123 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "construct-the-rectangle": {
+          "questionId": "492",
+          "title": "Construct the Rectangle",
+          "titleSlug": "construct-the-rectangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Math/Construct the Rectangle/"
+            }
+          }
+        },
+        "count-primes": {
+          "questionId": "204",
+          "title": "Count Primes",
+          "titleSlug": "count-primes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Enumeration",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "95 ms",
+              "memory": "51.1 MB",
+              "githubPath": "LeetCode/Array/Count Primes/"
+            }
+          }
+        },
+        "largest-perimeter-triangle": {
+          "questionId": "976",
+          "title": "Largest Perimeter Triangle",
+          "titleSlug": "largest-perimeter-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "12 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
+            }
+          }
+        },
+        "delete-columns-to-make-sorted": {
+          "questionId": "944",
+          "title": "Delete Columns to Make Sorted",
+          "titleSlug": "delete-columns-to-make-sorted",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "8 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Delete Columns to Make Sorted/"
+            }
+          }
+        },
+        "unique-email-addresses": {
+          "questionId": "929",
+          "title": "Unique Email Addresses",
+          "titleSlug": "unique-email-addresses",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "15 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Unique Email Addresses/"
+            }
+          }
+        },
+        "maximum-number-of-events-that-can-be-attended": {
+          "questionId": "1353",
+          "title": "Maximum Number of Events That Can Be Attended",
+          "titleSlug": "maximum-number-of-events-that-can-be-attended",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "69 ms",
+              "memory": "103.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Events That Can Be Attended/"
+            }
+          }
+        },
+        "baseball-game": {
+          "questionId": "682",
+          "title": "Baseball Game",
+          "titleSlug": "baseball-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "3 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Baseball Game/"
+            }
+          }
+        },
+        "longest-continuous-increasing-subsequence": {
+          "questionId": "674",
+          "title": "Longest Continuous Increasing Subsequence",
+          "titleSlug": "longest-continuous-increasing-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Longest Continuous Increasing Subsequence/"
+            }
+          }
+        },
+        "image-smoother": {
+          "questionId": "661",
+          "title": "Image Smoother",
+          "titleSlug": "image-smoother",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "4 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Image Smoother/"
+            }
+          }
+        },
+        "set-mismatch": {
+          "questionId": "645",
+          "title": "Set Mismatch",
+          "titleSlug": "set-mismatch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "752 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Set Mismatch/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785738691444,
+              "runtime": "6 ms",
+              "memory": "69.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
             }
           }
         }
