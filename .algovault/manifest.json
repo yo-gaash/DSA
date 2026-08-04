@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:15:09.401Z",
+  "lastUpdated": "2026-08-04T08:15:14.767Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1844,7 +1844,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738625304,
+              "syncedAt": 1785831314767,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -1863,7 +1863,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738625304,
+              "syncedAt": 1785831314767,
               "runtime": "1 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Reshape the Matrix/"
@@ -1881,7 +1881,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738634663,
+              "syncedAt": 1785831314767,
               "runtime": "6 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Lucky Numbers in a Matrix/"
@@ -1899,7 +1899,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738634663,
+              "syncedAt": 1785831314767,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Find N Unique Integers Sum up to Zero/"
@@ -1917,7 +1917,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738634663,
+              "syncedAt": 1785831314767,
               "runtime": "46 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -1936,7 +1936,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738634663,
+              "syncedAt": 1785831314767,
               "runtime": "3 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Maximum Population Year/"
@@ -1954,7 +1954,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738634663,
+              "syncedAt": 1785831314767,
               "runtime": "3 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Add to Array-Form of Integer/"
