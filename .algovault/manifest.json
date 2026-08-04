@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:14:43.099Z",
+  "lastUpdated": "2026-08-04T08:14:47.606Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1278,7 +1278,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738591856,
+              "syncedAt": 1785831287606,
               "runtime": "2 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
@@ -1297,7 +1297,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738591856,
+              "syncedAt": 1785831287606,
               "runtime": "14 ms",
               "memory": "93.4 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
@@ -1315,7 +1315,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738591856,
+              "syncedAt": 1785831287606,
               "runtime": "4 ms",
               "memory": "49.5 MB",
               "githubPath": "LeetCode/Array/Count Items Matching a Rule/"
