@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:15:04.852Z",
+  "lastUpdated": "2026-08-04T08:15:09.401Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1733,7 +1733,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738618996,
+              "syncedAt": 1785831309401,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Build Array from Permutation/"
@@ -1751,7 +1751,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738618996,
+              "syncedAt": 1785831309401,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -1769,7 +1769,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738618996,
+              "syncedAt": 1785831309401,
               "runtime": "0 ms",
               "memory": "79.7 MB",
               "githubPath": "LeetCode/Array/Peak Index in a Mountain Array/"
@@ -1787,7 +1787,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738625304,
+              "syncedAt": 1785831309401,
               "runtime": "0 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -1805,7 +1805,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738625304,
+              "syncedAt": 1785831309401,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
@@ -1826,7 +1826,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738625304,
+              "syncedAt": 1785831309401,
               "runtime": "6 ms",
               "memory": "55.8 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
