@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:15:42.659Z",
+  "lastUpdated": "2026-08-04T08:15:53.893Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2728,7 +2728,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "2 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Surface Area of 3D Shapes/"
@@ -2748,7 +2748,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Divisor Game/"
@@ -2766,7 +2766,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "3 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Array/Smallest Range I/"
@@ -2783,7 +2783,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Self Dividing Numbers/"
@@ -2802,7 +2802,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "1 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
@@ -2822,7 +2822,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
@@ -2839,7 +2839,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738678456,
+              "syncedAt": 1785831353893,
               "runtime": "2123 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
@@ -2856,7 +2856,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738691444,
+              "syncedAt": 1785831353893,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Math/Construct the Rectangle/"
@@ -2876,7 +2876,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738691444,
+              "syncedAt": 1785831353893,
               "runtime": "95 ms",
               "memory": "51.1 MB",
               "githubPath": "LeetCode/Array/Count Primes/"
@@ -2896,7 +2896,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738691444,
+              "syncedAt": 1785831353893,
               "runtime": "12 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
@@ -2914,7 +2914,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738691444,
+              "syncedAt": 1785831353893,
               "runtime": "8 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Delete Columns to Make Sorted/"
@@ -2933,7 +2933,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738691444,
+              "syncedAt": 1785831353893,
               "runtime": "15 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Unique Email Addresses/"
@@ -2953,7 +2953,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738691444,
+              "syncedAt": 1785831353893,
               "runtime": "69 ms",
               "memory": "103.3 MB",
               "githubPath": "LeetCode/Array/Maximum Number of Events That Can Be Attended/"
