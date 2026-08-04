@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:16:08.699Z",
+  "lastUpdated": "2026-08-04T08:16:14.352Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3407,7 +3407,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738715057,
+              "syncedAt": 1785831374352,
               "runtime": "7 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
@@ -3424,7 +3424,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738715057,
+              "syncedAt": 1785831374352,
               "runtime": "3 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Summary Ranges/"
@@ -3441,7 +3441,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738715057,
+              "syncedAt": 1785831374352,
               "runtime": "1 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -3459,7 +3459,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "8 ms",
               "memory": "54.8 MB",
               "githubPath": "LeetCode/Array/Construct Target Array With Multiple Sums/"
@@ -3479,7 +3479,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "5 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Hash Table/Partition Labels/"
@@ -3499,7 +3499,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "1 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Linked List/Linked List in Binary Tree/"
@@ -3519,7 +3519,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "5 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Largest Positive Integer That Exists With Its Negative/"
@@ -3538,7 +3538,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "2 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
@@ -3556,7 +3556,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "0 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
@@ -3574,7 +3574,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "8 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -3591,7 +3591,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831374352,
               "runtime": "0 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
