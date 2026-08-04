@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:14:53.361Z",
+  "lastUpdated": "2026-08-04T08:14:59.886Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -21,7 +21,7 @@
               "githubPath": "LeetCode/Array/Move Zeroes/"
             },
             "java": {
-              "syncedAt": 1785738609499,
+              "syncedAt": 1785831299886,
               "runtime": "2 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -1496,7 +1496,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738604307,
+              "syncedAt": 1785831299886,
               "runtime": "1127 ms",
               "memory": "49.3 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
@@ -1515,7 +1515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738604307,
+              "syncedAt": 1785831299886,
               "runtime": "0 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
@@ -1533,7 +1533,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738604307,
+              "syncedAt": 1785831299886,
               "runtime": "23 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Two Pointers/String Compression/"
@@ -1550,7 +1550,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738604307,
+              "syncedAt": 1785831299886,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
@@ -1590,7 +1590,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738609499,
+              "syncedAt": 1785831299886,
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -1609,7 +1609,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738609499,
+              "syncedAt": 1785831299886,
               "runtime": "0 ms",
               "memory": "61 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
