@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:43:34.210Z",
+  "lastUpdated": "2026-08-04T09:43:54.141Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -630,9 +630,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785836614210,
+              "syncedAt": 1785836536348,
               "runtime": "2 ms",
-              "memory": "46.8 MB",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Permutations/"
             }
           }
@@ -720,9 +720,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831262661,
-              "runtime": "151 ms",
-              "memory": "47.1 MB",
+              "syncedAt": 1785836634141,
+              "runtime": "158 ms",
+              "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
             }
           }
