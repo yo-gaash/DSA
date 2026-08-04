@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T08:53:58.192Z",
+  "lastUpdated": "2026-08-04T08:13:48.009Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -500,9 +500,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738538117,
+              "syncedAt": 1785831228009,
               "runtime": "1 ms",
-              "memory": "44.4 MB",
+              "memory": "44 MB",
               "githubPath": "LeetCode/Array/Subsets/"
             }
           }
@@ -593,9 +593,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738538117,
-              "runtime": "16 ms",
-              "memory": "46.9 MB",
+              "syncedAt": 1785831228009,
+              "runtime": "3 ms",
+              "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
             }
           }
@@ -2467,7 +2467,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738494125,
+              "syncedAt": 1785831228009,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -2485,7 +2485,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738494125,
+              "syncedAt": 1785831228009,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
@@ -2502,7 +2502,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738494125,
+              "syncedAt": 1785831228009,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Bit Manipulation/Minimum Bit Flips to Convert Number/"
@@ -2519,7 +2519,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738494125,
+              "syncedAt": 1785831228009,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
@@ -2538,7 +2538,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738494125,
+              "syncedAt": 1785831228009,
               "runtime": "1 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Power of Four/"
@@ -2556,7 +2556,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738494125,
+              "syncedAt": 1785831228009,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
@@ -3937,7 +3937,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785739816287,
+              "syncedAt": 1785831228009,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
@@ -3954,9 +3954,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785746920627,
+              "syncedAt": 1785831228009,
               "runtime": "0 ms",
-              "memory": "42.1 MB",
+              "memory": "42 MB",
               "githubPath": "LeetCode/Bit Manipulation/Complement of Base 10 Integer/"
             },
             "123546class solution {    public int bitwisecomplement(int n) {        int mask = (1<<integer.tobinarystring(n).length())-1;    }        return (~n)&mask;}": {
@@ -3964,6 +3964,25 @@
               "runtime": "0 ms",
               "memory": "0.00 MB",
               "githubPath": "LeetCode/Bit Manipulation/Complement of Base 10 Integer/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785831228008,
+              "runtime": "12 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
             }
           }
         }
