@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:15:26.181Z",
+  "lastUpdated": "2026-08-04T08:15:29.827Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2266,7 +2266,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738656219,
+              "syncedAt": 1785831329826,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -2285,7 +2285,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738656219,
+              "syncedAt": 1785831329826,
               "runtime": "1 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Apply Operations to an Array/"
@@ -2303,7 +2303,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738656219,
+              "syncedAt": 1785831329827,
               "runtime": "2 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Maximum Product Subarray/"
