@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:14:04.046Z",
+  "lastUpdated": "2026-08-04T08:14:08.517Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -386,7 +386,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738522288,
+              "syncedAt": 1785831248517,
               "runtime": "5 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Array/Degree of an Array/"
@@ -405,7 +405,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738530570,
+              "syncedAt": 1785831248517,
               "runtime": "7 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -423,7 +423,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738530570,
+              "syncedAt": 1785831248517,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Linked List/Rotate List/"
@@ -443,7 +443,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738530570,
+              "syncedAt": 1785831248517,
               "runtime": "163 ms",
               "memory": "64.9 MB",
               "githubPath": "LeetCode/Array/Find Array Given Subset Sums/"
