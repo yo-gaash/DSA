@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:15:34.295Z",
+  "lastUpdated": "2026-08-04T08:15:37.400Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2412,7 +2412,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738661388,
+              "syncedAt": 1785831337400,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/House Robber/"
