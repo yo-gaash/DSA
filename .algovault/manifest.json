@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:14:13.727Z",
+  "lastUpdated": "2026-08-04T08:14:17.452Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -612,7 +612,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738538117,
+              "syncedAt": 1785831257452,
               "runtime": "1 ms",
               "memory": "53 MB",
               "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
@@ -630,7 +630,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738538117,
+              "syncedAt": 1785831257452,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -649,7 +649,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738544199,
+              "syncedAt": 1785831257452,
               "runtime": "55 ms",
               "memory": "70.5 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
