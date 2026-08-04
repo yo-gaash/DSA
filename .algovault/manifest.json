@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T08:16:14.352Z",
+  "lastUpdated": "2026-08-04T08:16:19.253Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -46,7 +46,7 @@
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
             },
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831379253,
               "runtime": "5 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -107,7 +107,7 @@
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
             },
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -3611,7 +3611,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831379253,
               "runtime": "1 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -3629,7 +3629,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738730511,
+              "syncedAt": 1785831379253,
               "runtime": "16 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
@@ -3647,7 +3647,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -3665,7 +3665,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "1 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
@@ -3682,7 +3682,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "6 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
@@ -3701,7 +3701,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "5 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -3719,7 +3719,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "1 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
@@ -3737,7 +3737,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "24 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Binary Search/First Bad Version/"
@@ -3755,7 +3755,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785738743390,
+              "syncedAt": 1785831379253,
               "runtime": "1 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
