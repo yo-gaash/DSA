@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785921588264" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785927373077" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -284,6 +284,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
+| 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
 | 1025 | [Divisor Game](./Math/Divisor%20Game/) | Easy |

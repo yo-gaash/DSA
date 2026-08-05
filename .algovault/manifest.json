@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T09:19:48.254Z",
+  "lastUpdated": "2026-08-05T10:56:13.062Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4016,6 +4016,25 @@
               "runtime": "551 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
+            }
+          }
+        },
+        "sum-of-square-numbers": {
+          "questionId": "633",
+          "title": "Sum of Square Numbers",
+          "titleSlug": "sum-of-square-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785927373061,
+              "runtime": "4 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Sum of Square Numbers/"
             }
           }
         }
