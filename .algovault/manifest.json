@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T04:55:55.031Z",
+  "lastUpdated": "2026-08-05T05:16:22.844Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -470,6 +470,12 @@
               "syncedAt": 1785905755030,
               "runtime": "N/A",
               "memory": "N/A",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            },
+            "1c": {
+              "syncedAt": 1785906982843,
+              "runtime": "4 ms",
+              "memory": "72.45 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
             }
           }
