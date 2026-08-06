@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1785999740822" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1786007368645" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -85,6 +85,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
+| 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
 | 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
 | 832 | [Flipping an Image](./Array/Flipping%20an%20Image/) | Easy |

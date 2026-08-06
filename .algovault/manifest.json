@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T07:02:20.804Z",
+  "lastUpdated": "2026-08-06T09:09:28.634Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4035,6 +4035,24 @@
               "runtime": "4 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Sum of Square Numbers/"
+            }
+          }
+        },
+        "find-pivot-index": {
+          "questionId": "724",
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786007368633,
+              "runtime": "373 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
             }
           }
         }
