@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T09:10:13.274Z",
+  "lastUpdated": "2026-08-06T09:20:57.232Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4053,6 +4053,24 @@
               "runtime": "1 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
+            }
+          }
+        },
+        "smallest-divisible-digit-product-i": {
+          "questionId": "3345",
+          "title": "Smallest Divisible Digit Product I",
+          "titleSlug": "smallest-divisible-digit-product-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786008057231,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             }
           }
         }
