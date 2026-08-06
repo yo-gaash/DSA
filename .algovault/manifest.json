@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T09:20:57.232Z",
+  "lastUpdated": "2026-08-06T09:21:19.325Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4066,10 +4066,10 @@
             "Enumeration"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1786008057231,
-              "runtime": "1 ms",
-              "memory": "42.9 MB",
+            "1235678910111213141516417class solution {    public int smallestnumber(int n, int t) {        int prod = 1;        while(n>0){            int rem = n%10;            prod*=rem;            n/=10;        }        if(prod%t==0){            return temp;        }        else{            return smallestnumber(temp+1,t);        }    }        int temp = n;}": {
+              "syncedAt": 1786008079325,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             }
           }
