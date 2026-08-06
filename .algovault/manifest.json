@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:47:36.788Z",
+  "lastUpdated": "2026-08-06T07:02:20.804Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3659,7 +3659,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831379253,
+              "syncedAt": 1785999740803,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
