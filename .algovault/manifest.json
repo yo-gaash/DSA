@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T06:39:33.269Z",
+  "lastUpdated": "2026-08-08T06:40:25.880Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -732,7 +732,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785836634141,
+              "syncedAt": 1786171225880,
               "runtime": "158 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -2370,7 +2370,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785921588253,
+              "syncedAt": 1786171225880,
               "runtime": "3 ms",
               "memory": "94.7 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -2834,7 +2834,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785998856788,
+              "syncedAt": 1786171225880,
               "runtime": "10 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
@@ -4012,7 +4012,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785840276064,
+              "syncedAt": 1786171225880,
               "runtime": "551 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
@@ -4031,7 +4031,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785927373061,
+              "syncedAt": 1786171225880,
               "runtime": "4 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Sum of Square Numbers/"
@@ -4053,6 +4053,12 @@
               "runtime": "1 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
+            },
+            "java": {
+              "syncedAt": 1786171225880,
+              "runtime": "373 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
             }
           }
         },
@@ -4071,6 +4077,12 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
+            },
+            "java": {
+              "syncedAt": 1786171225880,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             }
           }
         },
@@ -4087,7 +4099,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786170000159,
+              "syncedAt": 1786171225880,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -4107,7 +4119,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171173268,
+              "syncedAt": 1786171225880,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
