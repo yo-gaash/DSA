@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T06:20:00.159Z",
+  "lastUpdated": "2026-08-08T06:39:33.269Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4091,6 +4091,26 @@
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "binary-tree-inorder-traversal": {
+          "questionId": "94",
+          "title": "Binary Tree Inorder Traversal",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786171173268,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
             }
           }
         }
