@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T06:43:10.169Z",
+  "lastUpdated": "2026-08-08T06:43:13.353Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3877,7 +3877,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831388342,
+              "syncedAt": 1786171393352,
               "runtime": "0 ms",
               "memory": "40.1 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
@@ -3895,7 +3895,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831388342,
+              "syncedAt": 1786171393352,
               "runtime": "0 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -3913,7 +3913,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831388342,
+              "syncedAt": 1786171393352,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -3932,7 +3932,7 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1785831388342,
+              "syncedAt": 1786171393353,
               "runtime": "0 ms",
               "memory": "7.7 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
