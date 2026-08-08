@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T09:21:19.325Z",
+  "lastUpdated": "2026-08-08T06:20:00.159Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4071,6 +4071,26 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786170000159,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
             }
           }
         }
