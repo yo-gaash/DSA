@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T10:17:43.283Z",
+  "lastUpdated": "2026-08-08T10:22:47.449Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4202,6 +4202,26 @@
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
+            }
+          }
+        },
+        "symmetric-tree": {
+          "questionId": "101",
+          "title": "Symmetric Tree",
+          "titleSlug": "symmetric-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786184567449,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Tree/Symmetric Tree/"
             }
           }
         }
