@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T06:41:07.986Z",
+  "lastUpdated": "2026-08-08T06:41:12.162Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -808,7 +808,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831262661,
+              "syncedAt": 1786171272162,
               "runtime": "4 ms",
               "memory": "51.2 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -827,7 +827,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831267963,
+              "syncedAt": 1786171272162,
               "runtime": "2610 ms",
               "memory": "61.6 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
@@ -846,7 +846,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831267963,
+              "syncedAt": 1786171272162,
               "runtime": "5 ms",
               "memory": "77.2 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -864,7 +864,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785831267963,
+              "syncedAt": 1786171272162,
               "runtime": "3 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Candy/"
