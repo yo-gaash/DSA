@@ -6,10 +6,11 @@ class Solution {
         return result;
     }
     public static List<List<Integer>> subsets(int start, int[] nums, List<List<Integer>> result, List<Integer> curr){
-        if(!result.contains(curr)){
-            result.add(new ArrayList<>(curr));
-        }
+        result.add(new ArrayList<>(curr));
         for(int i=start;i<=nums.length-1;i++){
+            if(i>start && nums[i] == nums[i-1]){
+                continue;
+            }
             curr.add(nums[i]);
             subsets(i+1,nums,result,curr);
             curr.remove(curr.size()-1);
