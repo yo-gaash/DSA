@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T06:50:23.773Z",
+  "lastUpdated": "2026-08-10T08:32:37.721Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4222,6 +4222,26 @@
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
+            }
+          }
+        },
+        "palindrome-linked-list": {
+          "questionId": "234",
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786350757720,
+              "runtime": "5 ms",
+              "memory": "94.5 MB",
+              "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
             }
           }
         }
