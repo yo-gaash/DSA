@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T06:31:33.318Z",
+  "lastUpdated": "2026-08-10T06:47:44.874Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1397,7 +1397,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171295631,
+              "syncedAt": 1786344464873,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
