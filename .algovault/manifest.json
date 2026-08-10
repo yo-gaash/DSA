@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T08:32:37.721Z",
+  "lastUpdated": "2026-08-10T09:14:27.753Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4242,6 +4242,26 @@
               "runtime": "5 ms",
               "memory": "94.5 MB",
               "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786353267753,
+              "runtime": "2689 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }
