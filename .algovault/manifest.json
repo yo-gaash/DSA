@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T09:14:27.753Z",
+  "lastUpdated": "2026-08-11T05:37:05.843Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4262,6 +4262,26 @@
               "runtime": "2689 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "diameter-of-binary-tree": {
+          "questionId": "543",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786426625843,
+              "runtime": "202 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
             }
           }
         }
