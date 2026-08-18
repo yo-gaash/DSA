@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:18:21.462Z",
+  "lastUpdated": "2026-08-18T09:18:25.555Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -788,7 +788,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171267986,
+              "syncedAt": 1787044705555,
               "runtime": "4 ms",
               "memory": "52.1 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
@@ -808,7 +808,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171272162,
+              "syncedAt": 1787044705555,
               "runtime": "4 ms",
               "memory": "51.2 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -827,7 +827,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171272162,
+              "syncedAt": 1787044705555,
               "runtime": "2610 ms",
               "memory": "61.6 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
