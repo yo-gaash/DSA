@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:20:02.958Z",
+  "lastUpdated": "2026-08-18T09:20:12.402Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2908,7 +2908,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171355362,
+              "syncedAt": 1787044812402,
               "runtime": "12 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
@@ -2926,7 +2926,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171355362,
+              "syncedAt": 1787044812402,
               "runtime": "8 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Delete Columns to Make Sorted/"
@@ -2945,7 +2945,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "15 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Unique Email Addresses/"
@@ -2965,7 +2965,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "69 ms",
               "memory": "103.3 MB",
               "githubPath": "LeetCode/Array/Maximum Number of Events That Can Be Attended/"
@@ -2984,7 +2984,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "3 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Baseball Game/"
@@ -3001,7 +3001,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "1 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Longest Continuous Increasing Subsequence/"
@@ -3019,7 +3019,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "4 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Array/Image Smoother/"
@@ -3039,7 +3039,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "752 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Set Mismatch/"
@@ -3057,7 +3057,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "6 ms",
               "memory": "69.6 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -3076,7 +3076,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "16 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
@@ -3094,7 +3094,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "1 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Can Place Flowers/"
@@ -3113,7 +3113,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "8 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Minimum Index Sum of Two Lists/"
@@ -3131,7 +3131,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044812402,
               "runtime": "1 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Range Addition II/"
