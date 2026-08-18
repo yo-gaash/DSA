@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:20:12.402Z",
+  "lastUpdated": "2026-08-18T09:20:25.489Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3152,7 +3152,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044825489,
               "runtime": "19 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Longest Harmonious Subsequence/"
@@ -3170,7 +3170,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171364280,
+              "syncedAt": 1787044825489,
               "runtime": "37 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Distribute Candies/"
@@ -3190,7 +3190,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374191,
+              "syncedAt": 1787044825489,
               "runtime": "16 ms",
               "memory": "49.8 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
@@ -3209,7 +3209,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "10 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Relative Ranks/"
@@ -3228,7 +3228,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "0 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Keyboard Row/"
@@ -3248,7 +3248,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "2 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -3266,7 +3266,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "3 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Teemo Attacking/"
@@ -3286,7 +3286,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "4 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Island Perimeter/"
@@ -3306,7 +3306,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "14 ms",
               "memory": "51.6 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -3324,7 +3324,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "20 ms",
               "memory": "74.3 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -3342,7 +3342,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "4 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
@@ -3363,7 +3363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171374192,
+              "syncedAt": 1787044825489,
               "runtime": "3 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
