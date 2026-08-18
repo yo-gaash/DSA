@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:17:13.861Z",
+  "lastUpdated": "2026-08-18T09:17:21.544Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2834,7 +2834,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044641544,
               "runtime": "10 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Fibonacci Number/"
@@ -4031,7 +4031,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044641544,
               "runtime": "4 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Sum of Square Numbers/"
@@ -4055,7 +4055,7 @@
               "githubPath": "LeetCode/Array/Find Pivot Index/"
             },
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044641544,
               "runtime": "373 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -4079,7 +4079,7 @@
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             },
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044641543,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
@@ -4099,7 +4099,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044641543,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -4119,9 +4119,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044641543,
               "runtime": "0 ms",
-              "memory": "43.1 MB",
+              "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
             }
           }
@@ -4139,7 +4139,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171472331,
+              "syncedAt": 1787044641543,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
@@ -4159,7 +4159,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171633658,
+              "syncedAt": 1787044641543,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
@@ -4178,7 +4178,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786426807334,
+              "syncedAt": 1787044641543,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
