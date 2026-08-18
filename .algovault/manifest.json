@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:17:21.544Z",
+  "lastUpdated": "2026-08-18T09:17:30.274Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -605,7 +605,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -642,7 +642,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "2 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -732,7 +732,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044650274,
               "runtime": "158 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -2370,7 +2370,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044650274,
               "runtime": "3 ms",
               "memory": "94.7 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -2497,7 +2497,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
@@ -2514,7 +2514,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Bit Manipulation/Minimum Bit Flips to Convert Number/"
@@ -2531,7 +2531,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
@@ -3949,7 +3949,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
@@ -3966,7 +3966,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Bit Manipulation/Complement of Base 10 Integer/"
@@ -3991,7 +3991,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171231690,
+              "syncedAt": 1787044650274,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -4012,7 +4012,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171225880,
+              "syncedAt": 1787044650274,
               "runtime": "551 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
