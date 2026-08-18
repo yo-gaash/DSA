@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1787028643572" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1787044602130" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -96,6 +96,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 908 | [Smallest Range I](./Array/Smallest%20Range%20I/) | Easy |
+| 916 | [Word Subsets](./Array/Word%20Subsets/) | Medium |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 929 | [Unique Email Addresses](./Array/Unique%20Email%20Addresses/) | Easy |
 | 944 | [Delete Columns to Make Sorted](./Array/Delete%20Columns%20to%20Make%20Sorted/) | Easy |

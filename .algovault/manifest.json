@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T04:50:43.558Z",
+  "lastUpdated": "2026-08-18T09:16:42.107Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4282,6 +4282,25 @@
               "runtime": "202 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
+            }
+          }
+        },
+        "word-subsets": {
+          "questionId": "916",
+          "title": "Word Subsets",
+          "titleSlug": "word-subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787044602106,
+              "runtime": "17 ms",
+              "memory": "54 MB",
+              "githubPath": "LeetCode/Array/Word Subsets/"
             }
           }
         }
