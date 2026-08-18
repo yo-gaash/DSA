@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:17:37.140Z",
+  "lastUpdated": "2026-08-18T09:17:43.430Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1786171235523,
+              "syncedAt": 1787044663430,
               "runtime": "1 ms",
               "memory": "58.4 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -40,7 +40,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1786171240744,
+              "syncedAt": 1787044663430,
               "runtime": "40 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -64,7 +64,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1786171240744,
+              "syncedAt": 1787044663430,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Sign of the Product of an Array/"
@@ -82,7 +82,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171240744,
+              "syncedAt": 1787044663430,
               "runtime": "30 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
@@ -101,7 +101,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1786171240744,
+              "syncedAt": 1787044663430,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -127,7 +127,7 @@
           ],
           "solutions": {
             "csharp": {
-              "syncedAt": 1786171240744,
+              "syncedAt": 1787044663430,
               "runtime": "12 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
