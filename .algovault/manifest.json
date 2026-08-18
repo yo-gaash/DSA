@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:19:10.254Z",
+  "lastUpdated": "2026-08-18T09:19:17.712Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1672,7 +1672,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044757712,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
@@ -1690,7 +1690,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044757712,
               "runtime": "0 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -1708,7 +1708,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "2 ms",
               "memory": "119.6 MB",
               "githubPath": "LeetCode/Array/Gas Station/"
@@ -1727,7 +1727,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "1 ms",
               "memory": "77.4 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -1745,7 +1745,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Build Array from Permutation/"
@@ -1763,7 +1763,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -1781,7 +1781,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "0 ms",
               "memory": "79.7 MB",
               "githubPath": "LeetCode/Array/Peak Index in a Mountain Array/"
@@ -1799,7 +1799,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "0 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -1817,7 +1817,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
@@ -1838,7 +1838,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171311687,
+              "syncedAt": 1787044757712,
               "runtime": "6 ms",
               "memory": "55.8 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
