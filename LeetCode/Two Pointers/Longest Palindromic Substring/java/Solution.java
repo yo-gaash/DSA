@@ -1,8 +1,5 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if(s.length()==1){
-            return s;
-        }
         int maxLen = Integer.MIN_VALUE;
         String palindromicString = "";
         for(int i=0;i<=s.length()-1;i++){
