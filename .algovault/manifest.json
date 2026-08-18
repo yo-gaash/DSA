@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:19:35.915Z",
+  "lastUpdated": "2026-08-18T09:19:40.700Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2243,7 +2243,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171326847,
+              "syncedAt": 1787044780700,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
@@ -2261,7 +2261,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171326847,
+              "syncedAt": 1787044780700,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Sorting the Sentence/"
@@ -2278,7 +2278,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171329969,
+              "syncedAt": 1787044780700,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -2297,7 +2297,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171329969,
+              "syncedAt": 1787044780700,
               "runtime": "1 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Apply Operations to an Array/"
