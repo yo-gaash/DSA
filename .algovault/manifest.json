@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:19:00.231Z",
+  "lastUpdated": "2026-08-18T09:19:10.254Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -21,7 +21,7 @@
               "githubPath": "LeetCode/Array/Move Zeroes/"
             },
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044750254,
               "runtime": "2 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -1602,7 +1602,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044750253,
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -1621,7 +1621,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044750254,
               "runtime": "0 ms",
               "memory": "61 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -1638,7 +1638,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044750254,
               "runtime": "3 ms",
               "memory": "52.8 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -1655,7 +1655,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171306728,
+              "syncedAt": 1787044750254,
               "runtime": "4 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
