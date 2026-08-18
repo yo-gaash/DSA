@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:20:42.849Z",
+  "lastUpdated": "2026-08-18T09:20:50.173Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3713,7 +3713,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171385107,
+              "syncedAt": 1787044850173,
               "runtime": "5 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -3731,7 +3731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "1 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
@@ -3749,7 +3749,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "24 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Binary Search/First Bad Version/"
@@ -3767,7 +3767,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "1 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -3785,7 +3785,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "1 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle II/"
@@ -3803,7 +3803,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle/"
@@ -3821,7 +3821,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
@@ -3840,7 +3840,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171390169,
+              "syncedAt": 1787044850173,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
