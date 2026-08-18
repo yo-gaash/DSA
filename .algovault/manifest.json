@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:19:40.700Z",
+  "lastUpdated": "2026-08-18T09:19:46.053Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2315,7 +2315,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171334738,
+              "syncedAt": 1787044786053,
               "runtime": "2 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Maximum Product Subarray/"
@@ -2333,7 +2333,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171334738,
+              "syncedAt": 1787044786053,
               "runtime": "22 ms",
               "memory": "53.9 MB",
               "githubPath": "LeetCode/String/Longest Common Subsequence/"
@@ -2352,7 +2352,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171334738,
+              "syncedAt": 1787044786053,
               "runtime": "18 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Coin Change/"
@@ -2388,7 +2388,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171334738,
+              "syncedAt": 1787044786053,
               "runtime": "4 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Triangle/"
@@ -2406,7 +2406,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171334738,
+              "syncedAt": 1787044786053,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/House Robber II/"
