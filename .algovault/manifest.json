@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:17:55.895Z",
+  "lastUpdated": "2026-08-18T09:18:00.934Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -368,7 +368,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171247232,
+              "syncedAt": 1787044680934,
               "runtime": "21 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/String/License Key Formatting/"
@@ -386,7 +386,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171250943,
+              "syncedAt": 1787044680934,
               "runtime": "5 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Array/Degree of an Array/"
@@ -405,7 +405,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171250943,
+              "syncedAt": 1787044680934,
               "runtime": "7 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
