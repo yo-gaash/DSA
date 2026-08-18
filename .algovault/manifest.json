@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:18:15.133Z",
+  "lastUpdated": "2026-08-18T09:18:21.462Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -661,7 +661,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171267986,
+              "syncedAt": 1787044701462,
               "runtime": "55 ms",
               "memory": "70.5 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
@@ -678,7 +678,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171267986,
+              "syncedAt": 1787044701462,
               "runtime": "0 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
@@ -695,7 +695,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171267986,
+              "syncedAt": 1787044701462,
               "runtime": "0 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
@@ -713,7 +713,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786344623773,
+              "syncedAt": 1787044701462,
               "runtime": "0 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
@@ -750,7 +750,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171267986,
+              "syncedAt": 1787044701462,
               "runtime": "36 ms",
               "memory": "100 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
@@ -768,7 +768,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786171267986,
+              "syncedAt": 1787044701462,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
