@@ -1,30 +1,37 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        String num = "";
-        for(int i=1;i<=n;i++){
-            num+=i;
-        }
-        List<String> ans = permute(num,0,k);
-        return ans.get(k-1);
+        String num = num(n);
+        return recurse(n,num,k-1,"");
     }
-    public static List<String> permute(String num, int count, int k){
-        List<String> ans = new ArrayList<>();
-        if(count == k){
-            return ans;
+    public static String recurse(int n, String num, int k, String perSeq){
+        if(n==0){
+            return perSeq;
         }
-        if(num.length() == 1){
-            ans.add(num);
-            return ans;
+        int factOfDigits = fact(n-1);
+        int index = k/factOfDigits;
+        perSeq = perSeq+getNum(index,num);
+        String rem = num.substring(0,index)+num.substring(index+1);
+        return recurse(n-1,rem,k%factOfDigits,perSeq);
+    }
+    public static int getNum(int index, String num){
+        int digit = 0;
+        for(int i=0;i<=index;i++){
+            digit = num.charAt(i)-'0';
         }
-        for(int i=0;i<=num.length()-1;i++){
-            char ch = num.charAt(i);
-            String remaining = num.substring(0,i)+num.substring(i+1);
-            List<String> perms = permute(remaining,count, k);
-            for(String p : perms){
-                ans.add(ch+p);
-                count++;
-            }
+        return digit;
+    }
+    public static String num(int n){
+        String result = "";
+        for(int i=1;i<=n;i++){
+            result = result+i;
         }
-        return ans;
+        return result;
+    }
+    public static int fact(int n){
+        int fact = 1;
+        for(int i=1;i<=n;i++){
+            fact = fact*i;
+        }
+        return fact;
     }
 }
