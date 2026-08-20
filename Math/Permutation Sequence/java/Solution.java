@@ -14,11 +14,7 @@ class Solution {
         return recurse(n-1,rem,k%factOfDigits,perSeq);
     }
     public static int getNum(int index, String num){
-        int digit = 0;
-        for(int i=0;i<=index;i++){
-            digit = num.charAt(i)-'0';
-        }
-        return digit;
+        return num.charAt(index)-'0';
     }
     public static String num(int n){
         String result = "";
