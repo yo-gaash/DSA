@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:08:20.059Z",
+  "lastUpdated": "2026-08-21T05:20:32.747Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4301,6 +4301,26 @@
               "runtime": "17 ms",
               "memory": "54 MB",
               "githubPath": "LeetCode/Array/Word Subsets/"
+            }
+          }
+        },
+        "average-of-levels-in-binary-tree": {
+          "questionId": "637",
+          "title": "Average of Levels in Binary Tree",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787289632746,
+              "runtime": "2 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Tree/Average of Levels in Binary Tree/"
             }
           }
         }
