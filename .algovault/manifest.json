@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T06:27:43.176Z",
+  "lastUpdated": "2026-08-21T06:36:29.504Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4346,6 +4346,25 @@
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal-ii": {
+          "questionId": "107",
+          "title": "Binary Tree Level Order Traversal II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787294189504,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal II/"
             }
           }
         }
