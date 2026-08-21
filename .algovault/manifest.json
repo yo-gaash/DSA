@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T06:37:55.147Z",
+  "lastUpdated": "2026-08-21T11:00:52.991Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1672,7 +1672,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787044757712,
+              "syncedAt": 1787310052990,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
