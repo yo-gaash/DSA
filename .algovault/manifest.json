@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:20:32.747Z",
+  "lastUpdated": "2026-08-21T05:37:33.752Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4320,6 +4320,12 @@
               "syncedAt": 1787289632746,
               "runtime": "2 ms",
               "memory": "48.6 MB",
+              "githubPath": "LeetCode/Tree/Average of Levels in Binary Tree/"
+            },
+            "123456789101112131415161718192021222324253927283626293031323334354138403742/** * definition for a binary tree node. * public class treenode { *     int val; *     treenode left; *     treenode right; *     treenode() {} *     treenode(int val) { this.val = val; } *     treenode(int val, treenode left, treenode right) { *         this.val = val; *         this.left = left; *         this.right = right; *     } * } */class solution {    public list<double> averageoflevels(treenode root) {        list<double> result = new arraylist<>();        if(root==null){            return result;        }        queue<treenode> q = new linkedlist<>();        q.offer(root);        while(!q.isempty()){            int size = q.size();        }            for(int i=0;i<=size-1;i++){                treenode current = q.poll();            }            double sum = 0;                sum+=current.val;                if(current.left!=null){                    q.offer(current.left);                }                if(current.right!=null){                    q.offer(current.right);                }    }            result.add(avg);        return result;            double avg = sum/size;}": {
+              "syncedAt": 1787290653752,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Tree/Average of Levels in Binary Tree/"
             }
           }
