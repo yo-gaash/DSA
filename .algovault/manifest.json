@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:37:33.752Z",
+  "lastUpdated": "2026-08-21T06:27:43.176Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4327,6 +4327,25 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Tree/Average of Levels in Binary Tree/"
+            }
+          }
+        },
+        "binary-tree-zigzag-level-order-traversal": {
+          "questionId": "103",
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787293663176,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
             }
           }
         }
