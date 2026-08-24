@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T06:00:32.097Z",
+  "lastUpdated": "2026-08-24T09:02:08.553Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4406,6 +4406,24 @@
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Right Side View/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787562128553,
+              "runtime": "1 ms",
+              "memory": "73.8 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
             }
           }
         }
