@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1787547258385" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1787551232109" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -352,6 +352,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](./Tree/Binary%20Tree%20Level%20Order%20Traversal%20II/) | Medium |
+| 199 | [Binary Tree Right Side View](./Tree/Binary%20Tree%20Right%20Side%20View/) | Medium |
 | 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
 | 637 | [Average of Levels in Binary Tree](./Tree/Average%20of%20Levels%20in%20Binary%20Tree/) | Easy |
 

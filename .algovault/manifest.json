@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T04:54:18.364Z",
+  "lastUpdated": "2026-08-24T06:00:32.097Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4386,6 +4386,26 @@
               "runtime": "2 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node/"
+            }
+          }
+        },
+        "binary-tree-right-side-view": {
+          "questionId": "199",
+          "title": "Binary Tree Right Side View",
+          "titleSlug": "binary-tree-right-side-view",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787551232097,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Right Side View/"
             }
           }
         }
