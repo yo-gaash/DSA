@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T09:02:08.553Z",
+  "lastUpdated": "2026-08-24T09:03:33.150Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4420,9 +4420,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787562128553,
+              "syncedAt": 1787562213149,
               "runtime": "1 ms",
-              "memory": "73.8 MB",
+              "memory": "77.5 MB",
               "githubPath": "LeetCode/Array/First Missing Positive/"
             }
           }
