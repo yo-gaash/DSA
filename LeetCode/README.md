@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1787310053003" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/the_yogzzz?theme=tokyonight&show=graph,recent&v=1787547258385" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -251,6 +251,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 234 | [Palindrome Linked List](./Linked%20List/Palindrome%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |

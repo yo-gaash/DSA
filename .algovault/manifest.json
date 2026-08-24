@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T11:00:52.991Z",
+  "lastUpdated": "2026-08-24T04:54:18.364Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4365,6 +4365,27 @@
               "runtime": "1 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal II/"
+            }
+          }
+        },
+        "populating-next-right-pointers-in-each-node": {
+          "questionId": "116",
+          "title": "Populating Next Right Pointers in Each Node",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787547258363,
+              "runtime": "2 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node/"
             }
           }
         }
