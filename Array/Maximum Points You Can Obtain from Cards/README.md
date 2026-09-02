@@ -1,52 +1,69 @@
 # 1423. Maximum Points You Can Obtain from Cards
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>There are several cards <strong>arranged in a row</strong>, and each card has an associated number of points. The points are given in the integer array <code>cardPoints</code>.</p>
+There are several cards arranged in a row, and each card has an associated number of points. The points are given in the integer array cardPoints.
 
-<p>In one step, you can take one card from the beginning or from the end of the row. You have to take exactly <code>k</code> cards.</p>
+In one step, you can take one card from the beginning or from the end of the row. You have to take exactly k cards.
 
-<p>Your score is the sum of the points of the cards you have taken.</p>
+Your score is the sum of the points of the cards you have taken.
 
-<p>Given the integer array <code>cardPoints</code> and the integer <code>k</code>, return the <em>maximum score</em> you can obtain.</p>
+Given the integer array cardPoints and the integer k, return the maximum score you can obtain.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> cardPoints = [1,2,3,4,5,6,1], k = 3
-<strong>Output:</strong> 12
-<strong>Explanation:</strong> After the first step, your score will always be 1. However, choosing the rightmost card first will maximize your total score. The optimal strategy is to take the three cards on the right, giving a final score of 1 + 6 + 5 = 12.
-</pre>
+Input: cardPoints = [1,2,3,4,5,6,1], k = 3
+Output: 12
+Explanation: After the first step, your score will always be 1. However, choosing the rightmost card first will maximize your total score. The optimal strategy is to take the three cards on the right, giving a final score of 1 + 6 + 5 = 12.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> cardPoints = [2,2,2], k = 2
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> Regardless of which two cards you take, your score will always be 4.
-</pre>
+Example 2:
 
-<p><strong class="example">Example 3:</strong></p>
+Input: cardPoints = [2,2,2], k = 2
+Output: 4
+Explanation: Regardless of which two cards you take, your score will always be 4.
 
-<pre>
-<strong>Input:</strong> cardPoints = [9,7,7,9,7,7,9], k = 7
-<strong>Output:</strong> 55
-<strong>Explanation:</strong> You have to take all the cards. Your score is the sum of points of all cards.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 3:
 
-<ul>
-	<li><code>1 &lt;= cardPoints.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= cardPoints[i] &lt;= 10<sup>4</sup></code></li>
-	<li><code>1 &lt;= k &lt;= cardPoints.length</code></li>
-</ul>
+Input: cardPoints = [9,7,7,9,7,7,9], k = 7
+Output: 55
+Explanation: You have to take all the cards. Your score is the sum of points of all cards.
 
+
+ 
+Constraints:
+
+
+	1 <= cardPoints.length <= 105
+	1 <= cardPoints[i] <= 104
+	1 <= k <= cardPoints.length
+
+## Examples
+
+```
+Input: cardPoints = [1,2,3,4,5,6,1], k = 3
+Output: 12
+Explanation: After the first step, your score will always be 1. However, choosing the rightmost card first will maximize your total score. The optimal strategy is to take the three cards on the right, giving a final score of 1 + 6 + 5 = 12.
+
+Input: cardPoints = [2,2,2], k = 2
+Output: 4
+Explanation: Regardless of which two cards you take, your score will always be 4.
+
+Input: cardPoints = [9,7,7,9,7,7,9], k = 7
+Output: 55
+Explanation: You have to take all the cards. Your score is the sum of points of all cards.
+```
+
+## Constraints
+
+- 1 <= cardPoints.length <= 105
+- 1 <= cardPoints[i] <= 104
+- 1 <= k <= cardPoints.length
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
